@@ -1,0 +1,28 @@
+{
+    "simbolo": "Cn",
+    "nombre": "Copernicio",
+    "numeroAtomico": 112,
+    "numeroMasico": 285.174,
+    "grupo": 12,
+    "periodo": 7,
+    "tipoElemento": "Metal de transición externa",
+    "propiedadesFisicas": [
+        "Propiedades físicas desconocidas",
+        "Posiblemente líquido o gas",
+        "Radio atómico: 147 pm",
+        "Isótopos inestables",
+        "Vida media de hasta 10 minutos"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica completa",
+        "Estados de oxidación +2 y +4",
+        "Menos reactivo que el mercurio",
+        "Posible comportamiento de gas noble"
+    ],
+    "aplicaciones": [
+        "Uso en investigación científica"
+    ],
+    "descubrimiento": "Descubierto en 1996 en Darmstadt, Alemania",
+    "fotoEF": "rutaFotosEF/112.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/112.jpg"
+}

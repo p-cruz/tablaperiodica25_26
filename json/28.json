@@ -1,0 +1,28 @@
+{
+	"simbolo": "Ni",
+	"nombre": "NIQUEL",
+	"numeroAtomico": 28,
+	"numeroMasico": 59,
+	"grupo": 10,
+	"periodo": 4,
+	"tipoElemento": "Elemento de transición",
+	"propiedadesFisicas": [
+		"Es un metal de color blanco plateado, duro pero flexible. ",
+		"Su punto de fusión es de 1453 ºC ",
+		"Su punto de ebullición es de 2730 ºC ",
+		"Su densidad es de 8.9g/ml"
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica: [Ar] 3d<sup>8</sup> 4s<sup>2</sup>",
+		"Ión más probable: El más habitual es el de carga +2.",
+		"Carácter metálico: Es un metal de transición, ferromagnético.",
+		"Algunos de sus compuestos se pueden disolver en el agua y tiene un color verde distintivo.",
+		"Es buen conductor de la electricidad y el calor."
+	],
+	"aplicaciones": [
+		"Se emplea en tecnología, en industria, en la actividad aeroespacial."
+	],
+	"descubrimiento": "Su origen se remonta aproximadamente al siglo IV antes de cristo, junto con el cobre. Sin embargo, el descubrimiento del níquel fue en el año 1751 por el minerólogo y químico sueco Axel Fredrik Cronstedt, quien lo encontró en minerales de níquelina, cuando estaba intentando extraer cobre.",
+	"fotoEF": "rutaFotosEF/28.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/28.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "simbolo": "Ag",
+  "nombre": "Plata",
+  "numeroAtomico": 47,
+  "numeroMasico": 107.87,
+  "grupo": 11,
+  "periodo": 5,
+  "categoria": "Metal de transición",
+  "propiedadesFisicas": [
+    "Es de color blanco neto y admite un pulido brillante.",
+    "Es maleable.",
+    "Es dúctil (menos que el oro).",
+    "Se alea con la mayoría de los metales.",
+    "Dureza de 2.5 a 3.",
+    "Gran conductividad térmica y eléctrica.",
+    "Punto de ebullición: 2212°C.",
+    "Punto de fusión: 962°C.",
+    "Se obtiene por varios procedimientos: amalgamación, cianuración, piroquímico, copelación y electrólisis.",
+    "Países productores más importantes: México, Rusia, Canadá, Perú y EE.UU."
+  ],
+  "propiedadesQuimicas": [
+    "Es poco reactiva.",
+    "Reacciona con azufre.",
+    "No reacciona con agua ni con ácidos débiles.",
+    "Se disuelve en ácido nítrico.",
+    "Configuración electrónica: [Kr] 4d<sup>10</sup> 5s<sup>1</sup>.",
+    "Ión más probable: +1.",
+    "Carácter metálico: metal de transición noble y excelente conductor.",
+    "Electronegatividad: 1,9.",
+    "Potencial estándar: 0,779 V (Ag+ / Ag).",
+    "Radio iónico: 0,126 nm.",
+    "Radio atómico: 0,14 nm."
+  ],
+  "aplicaciones": [
+    "Es el mejor conductor de la electricidad.",
+    "Se usa ampliamente en joyería, adornos y monedas.",
+    "Se emplea en objetos como copas, candelabros, bandejas y cubiertos.",
+    "Tiene aplicaciones en aparatos y circuitos eléctricos.",
+    "Se usa en medicina, especialmente en odontología y como bactericida y antiséptico."
+  ],
+  "descubrimiento": "La plata se conoce desde la antigüedad y se menciona en el Génesis. Se utilizaba desde alrededor del año 3000 a.C., cuando el ser humano aprendió a separarla del plomo. Es uno de los metales preciosos más apreciados en la joyería.",
+  "fotoEF": "rutaFotosEF/47.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/47.jpg"
+}

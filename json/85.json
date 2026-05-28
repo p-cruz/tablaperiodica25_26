@@ -1,0 +1,28 @@
+﻿{
+    "simbolo": "At",
+    "nombre": "Astato",
+    "numeroAtomico": 85,
+    "numeroMasico": 209.987,
+    "grupo": 17,
+    "periodo": 6,
+    "tipoElemento": "halogeno",
+    "propiedadesFisicas": [
+        "Solido a temperatura ambiente, de aspecto bastante lustroso.",
+        "Radio atomico: 200 pm.",
+        "Es un elemento muy inestable que solo existe en formas radiactivas de vida corta.",
+        "Se han preparado alrededor de 25 isotopos mediante reacciones nucleares de transmutacion artificial."
+    ],
+    "propiedadesQuimicas": [
+        "Es el halogeno mas pesado y se comporta de forma similar al yodo, con mayor tendencia a formar cationes.",
+        "Configuracion electronica: [Xe] 4f14 5d10 6s2 6p5.",
+        "Ion mas probable: -1, alcanzando asi configuracion de gas noble.",
+        "A pesar de ser un no metal, manifiesta cierto comportamiento metalico como la capacidad de formar cationes monoatomicos en solucion acuosa.",
+        "Es el elemento mas pesado del grupo de los halogenos y se ubica debajo del yodo en la tabla periodica."
+    ],
+    "aplicaciones": [
+        "Sus isotopos son candidatos interesantes para la creacion de radiofarmacos en el tratamiento del cancer mediante terapia con particulas alfa."
+    ],
+    "descubrimiento": "Fue sintetizado por primera vez en 1940 por Dale R. Corson, K. R. MacKenzie y Emilio Segrè en la Universidad de Berkeley bombardeando bismuto con particulas alfa. Un primer nombre propuesto para el elemento fue alabamio.",
+    "fotoEF": "rutaFotosEF/85.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/85.jpg"
+}

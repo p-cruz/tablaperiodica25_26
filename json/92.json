@@ -1,0 +1,36 @@
+{
+	"simbolo": "U",
+	"nombre": "Uranio",
+	"numeroAtomico": 92,
+	"numeroMasico": 238.02891,
+	"grupo": 3,
+	"periodo": 7,
+	"tipoElemento":"metal de transición interna",
+	"propiedadesFisicas": [
+		"El punto de fusión es 1132ºC, y el punto de ebullición, 3818ºC",
+		"Posee coloración grisácea plateada",
+		"Posee alta dureza",
+		"Es dúctil y flexible",
+		"Mal conductor de electricidad",
+		"Radio atómico: 156 pm (calculado)"
+	],
+	"propiedadesQuimicas": [
+		"metal de transicion interna",
+		"Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>3</sup>6d<sup>1</sup>",
+		"Ion más probable: Los estados de oxidación más comunes son +4 y +6. El catión simple más estable es U⁴⁺.",
+		"Tiene el mayor peso atómico de entre todos los elementos que se encuentran en la naturaleza.",
+		"Es un metal muy denso.",
+		"Es fuertemente electropositivo y reactivo.",
+		"Es un metal radioactivo.",
+		"Se oxida facilmente en el aire, reacciona con agua oxigeno y acidos, estados de oxidacion comuness: 4, 6, forma oxidos y sales de uranio es radiactivo."
+	],
+	"aplicaciones": [
+		"Combustible para reactores nucleares",
+		"Es usado en la producción municiones perforantes",
+		"Es usado en la producción de blindajes de alta resistencia",
+		"Satélites artificiales y veleros"
+	],
+	"descubrimiento": "El uranio fue descubierto por el químico alemán Klaproth en 1789 en una muestra de pechblenda y le puso este nombre en honor al planeta Urano. A finales del siglo XIX los esposos Curie descubrieron el polonio y el radio, formados por desintegración del uranio .",
+	"fotoEF": "rutaFotosEF/92.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/92.jpg"
+}

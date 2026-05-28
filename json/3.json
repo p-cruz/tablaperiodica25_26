@@ -1,0 +1,33 @@
+{
+  "simbolo": "Li",
+  "nombre": "LITIO",
+  "numeroAtomico": 3,
+  "numeroMasico": 6.941,
+  "grupo": 1,
+  "periodo": 2,
+  "propiedadesFisicas": [
+    "Alto calor específico (capacidad calorifica)",
+    "El gran intervalo de temperatura de la fase líquida",
+    "Alta conductividad térmica",
+    "Baja viscosidad",
+    "Baja densidad, aproximádamente la mitad que la del agua"
+  ],
+  "propiedadesQuimicas": [
+    "Configuración electrónica: 1s<sup>2</sup> 2s<sup>1</sup>",
+    "Ión más probable: El más habitual es el de carga +1.",
+    "Carácter metálico: Es un metal alcalino, altamente metálico.",
+    "El litio metálico es soluble en aminas alifáticas de cadena corta, como la etilamina.",
+    "Es insoluble en los hidrocarburos.",
+    "El litio experimenta un gran número de reacciones, tanto con reactivos orgánicos como inorgánicos.",
+    "Reacciona con el oxígeno para formar el monóxido y el peróxido."
+  ],
+  "aplicaciones": [
+    "Baterias ion-litio para coches eléctricos, teléfonos y alamacenamiento de energía renovable",
+    "Industria: vidrio cerámico, grasas lubricantes, cerámicas y aleaciones",
+    "Medicina: Las sales de litio son utilizadas para tratar el trastorno bipolar",
+    "Aire acondicionado"
+  ],
+  "descubrimiento": "JOHANN  ADRFVENS Johan August Arfwedson (Skagersholms Bruk, 12 de enero de 1792 - Hedensö, 28 de octubre de 1841) fue un químico sueco y descubridor del litio en el año 1817. Arfwedson perteneció a una familia burgesa rica. Fue hijo del comerciante Jacob Arfwedson y su esposa Anna Elisabeth Holtermann. Se matriculó como estudiante en la Universidad de Upsala en 1803 (en esa época, matricularse joven era algo común para los hijos de aristocráticos y ricos), recibiéndose en Leyes en 1809 y mineralogía en 1812. En el último año de sus estudios, recibió un puesto (ad honorem) en la Royal Board of Mines, donde continuó hasta alcanzar el puesto de notario (aún ad honorem) en 1814. En Estocolmo,te formó su propio laboratorio en su ciudad natal en el cual trabajó hasta el resto de sus días.",
+  "fotoEF": "rutaFotosEF/3.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/3.jpg"
+}

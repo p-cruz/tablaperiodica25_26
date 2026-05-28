@@ -1,0 +1,34 @@
+{
+	"simbolo": "Ru",
+	"nombre": "RUTENIO",
+	"numeroAtomico": 44,
+	"numeroMasico": 101,
+	"grupo": 8,
+	"periodo": 5,
+	"tipoElemento":"Elemento de transición",
+	"propiedadesFisicas": [
+		"Es un metal duro, blanco, manejable solo a altas temperaturas y con dificultad.",
+		"Su punto de fusión es 2.500 oC y su punto de ebullición es 4900 oC.",
+		"Su densidad es 12, 2 g / ml.",
+		"Es estable...",
+		"metal duro,blanco y manejable.",
+		"Estado físico: solido a temperatura ambiente con estructura cristalina hexagonal"
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica: [Kr] 4d<sup>7</sup> 5s<sup>1</sup>",
+		"Ión más probable: Presenta estados de oxidación variables, siendo +2, +3 y +4 los más comunes.",
+		"Carácter metálico: Es un metal de transición (del grupo del platino).",
+		"No se oxida con el aire a temperaturas inferiores a 820 Cº, no reaccionando ni con bajas ni altas temperaturas con ácidos y bases.",
+		"Es insoluble en todos los ácidos, pero reacciona con el cloro gaseoso, formando cloruro de rutenio(RuCI3).",
+		"Es soluble en agua..",
+    	"Inercia Química: Es resistente a la corrosión y a los acidos, aunque se ataca facilmente por álcañis fundidos y oxidantes fuertes",
+        "Actua como catalizador eficiente en reacciones hidrogenación",
+        "Forma complejos de coordinación, útiles en quimica, organometalica y catálisis"
+	],
+	"aplicaciones": [
+		"debido a su gran efectividad para endurecer al palidio y al platino,se emplean en las aleaciones de estos metales que se usan que se usan en contactos electricos con una alta resistencia al desgaste."
+	],
+	"descubrimiento": "Su descubrimiento se produjo tras la explotación de una reserva de platino en Rusia, que llevó a cabo investigaciones sobre el elemento y el desarrollo de la industria del platino en estas regiones.El descubrimiento definitivo tuvo lugar en 1844 por Karl Karlovitch Klaus, quien cambió su nombre por el de rutenio en honor a Rusia, uno de los principales productores del mineral de platino que dio origen al descubrimiento del elemento..",
+	"fotoEF": "rutaFotosEF/44.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/44.jpg"
+}

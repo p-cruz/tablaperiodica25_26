@@ -1,0 +1,39 @@
+{
+  "simbolo": "Rb",
+  "nombre": "Rubidio",
+  "numeroAtomico": 37,
+  "numeroMasico": 85.4678,
+  "grupo": 1,
+  "periodo": 5,
+  "tipoElemento": "metal alcalino",
+  "propiedadesFisicas": [
+    "Densidad de 1.53 g/cm3.",
+    "Punto de fusión de 38.9 ºC.",
+    "Punto de ebullición de 688 ºC.",
+    "Es un metal blando, dúctil y de color blanco plateado.",
+    "Su dureza es de 0,3 Mohs.",
+    "La conductividad térmica es 58.2 W/(K·m).",
+    "Es ligeramente radioactivo."
+  ],
+  "propiedadesQuimicas": [
+    "Configuración electrónica: [Kr] 5s<sup>1</sup>",
+    "Ión más probable: El más habitual es el de carga +1.",
+    "Carácter metálico: Es un metal alcalino, altamente reactivo.",
+    "Tan reactivo con oxígeno que puede arder espontáneamente con este elemento puro.",
+    "El metal pierde el brillo muy rápidamente al aire, formando un recubrimiento de óxido (pasivado)."
+  ],
+  "aplicaciones": [
+    "El rubidio se puede ionizar con facilidad, por lo que se ha estudiado su uso en motores iónicos para naves espaciales, aunque xenón y cesio han demostrado una mayor eficacia para este propósito.",
+    "Se utiliza principalmente en la fabricación de cristales especiales para sistemas de telecomunicaciones de fibra óptica y equipos de visión nocturna.",
+    "Recubrimientos fotoemisores de telurio-rubidio en células fotoeléctricas y detectores electrónicos.",
+    "Afinador de vacío (getter), sustancia que absorbe las últimas trazas de gas, especialmente oxígeno, en tubos de vacío para asegurar su correcto funcionamiento.",
+    "Componente de fotorresistencias (LDR, Light Dependent Resistors), resistencias cuya resistencia eléctrica varía con la iluminación recibida.",
+    "En medicina para la tomografía por emisión de positrones, el tratamiento de la epilepsia y la separación por ultracentrifugado de ácidos nucleicos y virus.",
+    "Fluido de trabajo en turbinas de vapor.",
+    "El RbAg4I5 tiene la mayor conductividad eléctrica conocida a temperatura ambiente de todos los cristales iónicos y podría usarse en la fabricación de baterías en forma de delgadas láminas, entre otras aplicaciones eléctricas.",
+    "Se estudia la posibilidad de emplear el metal en generadores termoeléctricos basados en la magnetohidrodinámica, de forma que los iones de rubidio generados a alta temperatura sean conducidos a través de un campo magnético generando una corriente eléctrica."
+  ],
+  "descubrimiento": "El rubidio (del latín rubidus, rojo oscuro) fue descubierto en 1861 por Robert Bunsen y Gustav Kirchhoff en la lepidolita utilizando un espectroscopio al detectar las dos rayas rojas características del espectro de emisión de este elemento, que son la razón de su nombre. Son pocas las aplicaciones industriales de este elemento que en 1920 empezó a usarse en células fotoeléctricas, habiéndose utilizado sobre todo en actividades de investigación y desarrollo, especialmente en aplicaciones químicas y electrónicas.",
+  "fotoEF": "rutaFotosEF/37.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/37.jpg"
+}

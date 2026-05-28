@@ -1,0 +1,33 @@
+{
+    "simbolo": "Hg",
+    "nombre": "Mercurio",
+    "numeroAtomico": 80,
+    "numeroMasico": 200.6,
+    "grupo": 12,
+    "periodo": 6,
+    "tipoElemento":"metal de transición",
+    "propiedadesFisicas": [
+        "El mercurio es el octogésimo elemento de la tabla periódica.",
+        "El mercurio es un metal líquido, inodoro, plateado, pesado y ligeramente volátil a temperatura ambiente. En estado sólido es blanco, dúctil, maleable y puede cortarse con un cuchillo.",
+        "Su punto de fusión es de -38,4ºC y el punto de ebullición es de 357ºC.",
+        "Su densidad es de 16,6 g/ml.",
+        "Forma esferas perfectas que se deslizan fácilmente y se dividen al cortarse.",
+        "Mal conductor del calor, pero buen conductor de la electricidad."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup>",
+        "Ión más probable: Los más comunes son +1 (como Hg<sub>2</sub><sup>2+</sup>) y +2.",
+        "Carácter metálico: Es un metal de transición (aunque con orbital d lleno), tóxico.",
+        "Es un metal noble, soluble únicamente en soluciones oxidantes.",
+        "El mercurio sólido es tan suave como el plomo. El metal y sus compuestos son muy tóxicos.",
+        "El mercurio forma soluciones llamadas amalgamas con algunos metales (por ejemplo, oro, plata, platino, uranio, cobre, plomo, sodio y potasio).",
+        "Es soluble en soluciones oxidantes como ácido nítrico concentrado, pero no en ácido clorhídrico.",
+        "Forma compuestos estables con azufre a temperatura ambiente."
+    ],
+    "aplicaciones":[
+        "Se encuentra en termómetros y barómetros, pigmentos, cosméticos, pilas, relés, interruptores, detectores de llama, amalgamas dentales, instrumentos médicos, vacunas, medicamentos, pesticidas, funguicidas, tubos fluorescentes… etc."
+    ],
+    "descubrimiento": "Solo se sabe que se encontró en las tumbas egipcias por el año 1500 antes de cristo.",
+    "fotoEF": "rutaFotosEF/80.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/80.jpg"
+}

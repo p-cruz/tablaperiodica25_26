@@ -1,0 +1,28 @@
+{
+	"simbolo": "Ds",
+	"nombre": "Darmstadtio",
+	"numeroAtomico": 110,
+	"numeroMasico": 281.165,
+	"grupo": 10,
+	"periodo": 7,
+	"tipoElemento": "Metal de transición externa",
+	"propiedadesFisicas": [
+		"Sólido metálico (predicho)",
+		"Alta densidad",
+		"Punto de fusión elevado",
+		"Buena conductividad",
+		"Radio atómico: 128 pm"
+	],
+	"propiedadesQuimicas": [
+		"Comportamiento similar al platino",
+		"Estados de oxidación +2 y +4",
+		"Configuración electrónica completa",
+		"Alta radiactividad"
+	],
+	"aplicaciones": [
+		"Uso exclusivo en investigación científica"
+	],
+	"descubrimiento": "Sintetizado en 1994 en Darmstadt, Alemania",
+	"fotoEF": "rutaFotosEF/110.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/110.jpg"
+}

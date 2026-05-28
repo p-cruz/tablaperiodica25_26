@@ -1,0 +1,25 @@
+{
+        "simbolo": "Fm",
+        "nombre": "Fermio",
+        "numeroAtomico": 100,
+        "numeroMasico": 257,
+        "grupo":  3,
+        "periodo": 7,
+        "tipoElemento:":"Elemento de transición",
+        "propiedadesFisicas": [
+                "El fermio es un elemento químico radiactivo creado artificialmente. El Fermio es un elemento que no está presente en el medio ambiente y se obtiene con la transmutación o alteración de núcleos atómicos de otros elementos.",
+                "Consta de más de 16 isótopos radiactivos que poseen masas entre 244 y 259, de los cuales se procesan mínimas muestras. Sus isótopos son inestables.",
+                "Es un sólido de aspecto metálico blanco plateado inodoro. Su punto de fusión es 1.527 °C y su punto de ebullición es desconocido. Su densidad es también desconocida.",
+                "Radio atómico: 186 pm (calculado)"
+        ],
+        "propiedadesQuimicas": [
+                "Configuración electrónica: [Rn] 5f12 7s2",
+                "Presenta una solubilidad muy baja en agua. Reacciona con ácido clorhídrico, nítrico y soluciones de amonio."
+        ],
+        "aplicaciones":[
+                "Sus aplicaciones son muy limitadas, no tiene aplicaciones industriales."
+        ],
+        "descubrimiento": "Fue descubierto por Albert Ghiorso y sus compañeros en 1952 al analizar los residuos de una explosión de una bomba de hidrógeno. Luego, el elemento se preparó de forma sintética en un reactor nuclear con un bombardeo de Plutonio con neutrones, junto a un ciclotrón bombardeado de Uranio 238 e iones de Nitrógeno. Los estudios demostraron que sus isótopos son inestables lo que provoca su rápida desintegración en el ambiente.",
+        "fotoEF": "rutaFotosEF/fichero.jpg",
+        "fotoDescubridor": "rutaFotosDescubridores/100.jpg"
+        }

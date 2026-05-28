@@ -1,0 +1,36 @@
+﻿{
+    "simbolo": "Co",
+    "nombre": "Cobalto",
+    "numeroAtomico": 27,
+    "numeroMasico": 58.93,
+    "grupo": 9,
+    "periodo": 4,
+    "tipoElemento": "metal de transición",
+    "propiedadesFisicas": [
+        "Su punto de fusión es de 1495 ºC y su punto de ebullición 2870 ºC.",
+        "Densidad: 8.9 g/ml."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Ar] 3d<sup>7</sup> 4s<sup>2</sup>",
+        "Ión más probable: Los más comunes son +2 y +3.",
+        "Carácter metálico: Es un metal de transición, ferromagnético.",
+        "El cobalto se parece al hierro y al níquel, tanto en estado libre como combinado. ",
+        "Se encuentra distribuido con amplitud en la naturaleza y forma, aproximadamente, el 0.001% del total de las rocas ígneas de la corteza terrestre, en comparación con el 0.02% del níquel.",
+        "Se halla en meteoritos, estrellas, en el mar, en aguas dulces, suelos, plantas, animales y en los nódulos de manganeso encontrados en el fondo del océano.",
+        "Se observan trazas de cobalto en muchos minerales de hierro, níquel, cobre, plata, manganeso y zinc; pero los minerales de cobalto importantes en el comercio son los arseniuros, óxidos y sulfuros.",
+        "El cobalto y sus aleaciones son resistentes al desgaste y a la corrosión, aun a temperaturas elevadas."
+    ],
+    "aplicaciones": [
+        "Aleaciones usadas en turbinas de gas de aviación.",
+        "Aleaciones resistentes a la corrosión.",
+        "Herramientas de corte en procesos de fabricación para fresadoras.",
+        "Imanes (Alnico)",
+        "Cintas magnéticas",
+        "Catálisis del petróleo",
+        "Recubrimientos metálicos",
+        "Secante para pinturas"
+    ],
+    "descubrimiento": "Georg Brandt en 1735.",
+    "fotoEF": "rutaFotosEF/27.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/27.jpg"
+}

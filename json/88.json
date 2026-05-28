@@ -1,0 +1,27 @@
+{
+   "simbolo":"Ra",
+   "nombre":"Radio",
+   "numeroAtomico":88,
+   "numeroMasico":226,
+   "grupo": 2,
+   "periodo": 7,
+   "tipoElemento": "metal alcalinoterreo",
+   "propiedadesFisicas":[ 
+      "Material solido y plateado, tiene alta densidad.",
+      "Es un elemento radiactivo raro, encontrado en minerales de uranio. Es un solido metalico, brillante y blando.",
+      "Su punto de fusion es 700 C y su punto de ebullicion 1737 C. Su densidad es 5.5 g/cm3."
+   ],
+   "propiedadesQuimicas":[
+      "Metal radiactivo blanco plateado que se oscurece en el aire.",
+      "Configuracion electronica: [Rn] 7s2.",
+      "Ion mas probable: +2.",
+      "Caracter metalico: Es un metal alcalinoterreo, altamente radiactivo y reactivo.",
+      "Reacciona con el agua rapidamente para formar hidroxidos y sus sales presentan baja solubilidad."
+   ],
+   "aplicaciones":[
+      "Cuando se mezcla con berilio, es una fuente de neutrones para experimentos fisicos."
+   ],
+   "descubrimiento":"El radio fue descubierto en 1898 por Marie Sklodowska Curie y Pierre Curie en una variedad de uraninita del norte de Bohemia.",
+   "fotoEF":"rutaFotosEF/88.jpg",
+   "fotoDescubridor":"rutaFotosDescubridores/88.jpg"
+}

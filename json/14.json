@@ -1,0 +1,27 @@
+{
+    "simbolo": "Si",
+    "nombre": "SILICIO",
+    "numeroAtomico": 14,
+    "numeroMasico": 28,
+    "grupo": 14,
+    "periodo": 3,
+    "propiedadesFisicas": [
+        "El elemento puro es un sólido muy duro y frágil, de coloración grisácea con brillo. ",
+        "Su punto de fusión es: 1410ºC.",
+        "Su punto de ebullición es: 2355ºC.",
+        "Su densidad es: 2,33g/ml."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Ne] 3s<sup>2</sup> 3p<sup>2</sup>",
+        "Ión más probable: Aunque puede formar iones con carga +4 o -4, predomina la formación de enlaces covalentes.",
+        "Carácter metálico: Es un metaloide (semimetal).",
+        "Es un metaloide con marcado lustre metálico y sumamente quebradizo.",
+        "Por lo regular, es tretavalente en sus compuestos, aunque algunas veces es divalente, y es netamente electropositivo en su comportamiento químico."
+    ],
+    "aplicaciones": [
+        "Se utiliza como elemento de aleación en fundiciones, en la preparación de las siliconas, en la industria de la cerámica, en la fabricación de vidrio para ventanas y aislantes y esmaltados. "
+    ],
+    "descubrimiento": "El químico sueco Jons Jacob Berzelius es a quien se le acredita el descubrimiento del silicio, puesto que entre 1823 y 1824, fue el primero en logar una forma pura y aislada de este elemento.",
+    "fotoEF": "rutaFotosEF/14.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/14.jpg"
+}

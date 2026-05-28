@@ -1,0 +1,28 @@
+{
+   "simbolo":"Th",
+   "nombre":"Torio",
+   "numeroAtomico":90,
+   "numeroMasico":232.0381,
+   "grupo":3,
+   "periodo":7,
+   "tipoElemento":"metal de transicion interna",
+   "propiedadesFisicas":[
+      "El estado del torio en su forma natural es solido. El torio es un elemento quimico de aspecto blanco plateado y pertenece al grupo de los actinidos.",
+      "Su punto de fusion es 1750 C y su punto de ebullicion es 3850 C.",
+      "Su densidad es de 11.7 g/cm3.",
+      "Radio atomico: 179 pm (calculado)."
+   ],
+   "propiedadesQuimicas":[
+      "Todos los isotopos del grupo de los actinidos son radiactivos.",
+      "Configuracion electronica: 1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 4f14 5d10 6s2 6p6 6d2 7s2.",
+      "Ion mas probable: +4 formando el catión Th4+.",
+      "Forma compuestos binarios con la mayoria de los no metales excepto gases nobles."
+   ],
+   "aplicaciones":[
+      "Se puede usar para fabricar objetos de ceramica, camisas incandescentes para lamparas de gas y metales usados en la industria aeroespacial.",
+      "Tambien se investiga como combustible para la generacion de energia nuclear."
+   ],
+   "descubrimiento":"El torio fue descubierto en 1828 por Morten Thrane Esmark e identificado por Jons Jacob Berzelius, quien lo nombro en honor a Thor, la deidad nordica del trueno.",
+   "fotoEF":"rutaFotosEF/90.jpg",
+   "fotoDescubridor":"rutaFotosDescubridores/90.jpg"
+}

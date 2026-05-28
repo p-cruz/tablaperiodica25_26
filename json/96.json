@@ -1,0 +1,29 @@
+﻿{
+	"simbolo": "Cm",
+	"nombre": "Curio",
+	"numeroAtomico": 96,
+	"numeroMasico": 247.0703,
+	"grupo": "Tierras raras (Actínidos)",
+	"periodo": 7,
+	"tipoElemento":"Elemento de transición interna",
+	"propiedadesFisicas": [
+		"Es un elemento sintético de la tabla periódica, radiactivo y con aspecto plateado que se pierda al contacto con el aire",
+		"El punto de fusión es 1340ºC, y el punto de ebullición, 3110ºC",
+		"Radio atómico: 174 pm (calculado)"
+	],
+	"propiedadesQuimicas": [
+		"estado de oxidación principal es +3, es muy electropositivo, se oxida al aire, reacciona con ácidos minerales formando iones tripositivos y forma compuestos como]",
+		"Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>7</sup>6d<sup>1</sup>",
+		"Ion más probable: El estado de oxidación más estable es +3 (formando el catión Cm³⁺), aunque también se conoce el estado +4.",
+		"Posee tres formas cristalinas.",
+		"Es antiferromagnético a temperaturas menores a 60 K e incrementa su resistividad eléctrica hasta los 60 K con el paso del tiempo debido a cambios de la estructura cristalina por descomposición radiactiva.",
+		"Se ha logrado preparar varios compuestos sólidos del curio y sus estructuras se han categorizado por inflexión de rayos X.",
+		"Tiene capacidad de formar compuestos fotoluminiscentes en combinación con la urea y fluoresceína entre otros."
+	],
+	"aplicaciones": [
+		"Se emplea principalmente para el estudio científico básico y la investigación, como lo es en el caso de la mayoría de los actínidos."
+	],
+	"descubrimiento": "El descubrimiento de este elemento se les atribuye a Ralph James, Glenn Seaborg y Albert Ghiorso en la Universidad de Berkeley en 1944.",
+	"fotoEF": "rutaFotosEF/96.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/96.jpg"
+ }

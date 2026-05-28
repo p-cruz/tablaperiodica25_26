@@ -1,0 +1,26 @@
+{
+    "simbolo": "Rg",
+    "nombre": "Roentgenio",
+    "numeroAtomico": 111,
+    "numeroMasico": 282.169,
+    "grupo": 11,
+    "periodo": 7,
+    "tipoElemento": "Metal de transición",
+    "propiedadesFisicas": [
+        "Sólido metálico (predicho)",
+        "Vida media de 26 s",
+        "Puntos de fusión y ebullición desconocidos",
+        "Radio atómico: 138 pm"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica completa",
+        "Estados de oxidación +5, +3, +1 y -1",
+        "Similar al oro"
+    ],
+    "aplicaciones": [
+        "Uso en investigación científica"
+    ],
+    "descubrimiento": "Descubierto en 1994 en Alemania",
+    "fotoEF": "rutaFotosEF/fichero.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/111.jpg"
+}

@@ -1,0 +1,32 @@
+{
+    "simbolo": "Ce",
+    "nombre": "CERIO",
+    "numeroAtomico": 58,
+    "numeroMasico": 140,
+    "grupo": 3,
+    "periodo": 6,
+    "propiedadesFisicas": [
+        "Su punto de fusión es 795ºC y su punto de ebullición es 3257ºC ",
+        "Su densidad es 6,67 g/ml.",
+        "es un metal de color blanco-grisáceo brillante, blando, inodoro y textura metálica, puede confundirse con el plomo o el estaño.",
+        "Se encuentra en estado sólido, es un metal con propiedades electromagnéticas. Es un excelente conductor térmico y eléctrico."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Xe] 4f<sup>1</sup> 5d<sup>1</sup> 6s<sup>2</sup>",
+        "Ión más probable: Los más comunes son +3 y +4.",
+        "Carácter metálico: Es un lantánido (tierra rara), altamente reactivo.",
+        "Reacciona al entrar en contacto con el agua, el cerio se oxida rápidamente y adquiere una tonalidad rojiza. De todos los metales de su tipo, el cerio es el más reactivo."
+    ],
+    "aplicaciones": [
+        "se usa para Convertidores catalíticos",
+        "como catalizador del proceso de craking",
+        "en aleaciones utilizadas en encendedores",
+        "el óxido de cerio se usa para el pulido de lentes",
+        "instrumentos ópticos y semiconductores",
+        "en las aleaciones de los imanes permanentes",
+        "Como en el tratamiento de quemaduras y opacificante"
+    ],
+    "descubrimiento": "Martin Heinrich Klaproth y Jöns Jacb Berzelius son los científicos a quienes se les acredita el descubrimiento en el año 1803. El país fue Alemania, específicamente, donde encontraron el mineral en forma de un óxido llamado ceria. Consecutivamente a esto, decidieron aislarlo en una mina de hierro en 1875.",
+    "fotoEF": "rutaFotosEF/fichero.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/58.jpg"
+}

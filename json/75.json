@@ -1,0 +1,40 @@
+{
+    "simbolo": "Re",
+    "nombre": "Renio",
+    "numeroAtomico": 75,
+    "numeroMasico": 186,
+	"grupo": 7,
+	"periodo": 6,
+	"tipoElemento":"metal de transición",
+    "propiedadesFisicas": [
+		"Radio atómico: 137 pm",
+        "Su punto de fusión es de 3.182 °C.",
+        "Su punto de ebullición es de 5.597 °C",
+        "Su densidad es de 21.03 g/ml",
+        "No es un elemento artificial",
+        "Estructura Cristalina: Hexagonal compacta.",
+        "Color: Blanco plateado, brillante.",
+        "Ductilidad/Maleabilidad: Es dúctil y maleable, permitiendo trabajar en frío, y se vuelve más flexible al calentarse.",
+        "Resistividad Eléctrica: Elevada."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Xe] 6s<sup>2</sup> 4f<sup>14</sup> 5d<sup>5</sup>",
+        "Iones más probables: (+2), (+7)",
+        "Carácter metálico: Metal de transición de comportamiento típico.",  
+        "El renio es un metal de transición.",
+        "El renio es muy resistente a la corrosión.",
+        "Este elemento puede oxidarse a temperaturas elevadas con oxígeno.",
+        "El renio provoca óxidos volátiles e inflamables.",
+        "El renio tiene baja radioactividad, aunque algunas veces genera emisión de partículas o átomos alfa y rayos X.", 
+        "Este elemento puede formar el ácido perrénico, HReO4 es un ácido monobásico fuerte y un agente oxidante muy débil. Los compuestos halogenados de renio son muy complicados; se ha dado a conocer una larga serie de halogenuros y oxihalogenuros.",
+        "Este elemento tiene múltiples isótopos, algunos de ellos son: 160 Re, 161 Re, 161m Re, 162 Re, 162m Re…..",
+        "Formación de Compuestos: Forma compuestos con halógenos y se encuentra comúnmente en forma de perrenatos (como el perrenato de amonio, (NH_{4}ReO_{4})).",
+        "Actividad Catalítica: Se utiliza ampliamente como catalizador en la industria química, especialmente en procesos de hidrogenación y deshidrogenación, destacando porque no se desactiva fácilmente por la presencia de azufre o fósforo."
+    ],
+    "aplicaciones": [
+        "Este elemento se utiliza entre otros, para la fabricación de piezas de las turbinas de motores de reacción, turbinas de gas y blindajes de naves espaciales."
+    ],
+    "descubrimiento": "Este elemento fue aislado por primera vez en 1925 por Walter e Ida Noddack y Otto Berg en Alemania.​",
+    "fotoEF": "rutaFotosEF/75.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/75.jpg"
+}

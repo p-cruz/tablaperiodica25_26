@@ -1,0 +1,34 @@
+{
+    "simbolo": "Ir",
+    "nombre": "Iridio",
+    "numeroAtomico": 77,
+    "numeroMasico": 192.217,
+    "grupo": 9,
+    "periodo": 6,
+    "tipoElemento": "Elemento de transición",
+    "propiedadesFisicas": [
+        "Es difícil trabajar este metal, pues es muy duro y quebradizo, por lo que se prefiere trabajar en forma de polvo metálico.Es el único metal que mantiene buenas propiedades mecánicas por encima de los 1600°C",
+	"Es el segundo elemento con mayor densidad del Universo.",
+        "Punto de ebullición: 4428°C.",
+        "Punto de fusión: 2446°C.",
+        "Densidad: 22,56 g/mL."
+                ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Xe] 4f<sup>14</sup> 5d<sup>7</sup> 6s<sup>2</sup>",
+        "Ión más probable: Los más comunes son +3 y +4.",
+        "Carácter metálico: Es un metal de transición (del grupo del platino), muy denso.",
+        "Electronegatividad: 2.2.",
+        "Primer potencial de ionización (eV): 9.25.",
+        "Radio iónico (pm): 66.",
+        "Radio atómico (pm): 136.",
+        "Es el metal más resistente a la corrosión conocido. No es atacado por casi ningún ácido, el aqua regia (aunque si pulverizado), metales fundidos o silicatos a altas temperaturas. Sin embargo, si puede ser atacado por algunas sales fundidas como el cianuro sódio y el cianuro potásico, así como el oxígeno y algunos halógenos como el fluor a altas temperaturas."
+    ],
+    "aplicaciones": [
+        "Es un metal exageradamente caro.",
+        "Se usa en aleaciones con platino.",
+        "Se emplea en algunas bujías de alta calidad de automóviles"
+    ],
+    "descubrimiento":"Este elemento fue descubierto en 1803 por el químico británico Smithson Tennant (que también fue quien descubrió el osmio), quien trabajando junto a su compatriota, el físico y químico William Hyde Wollaston, descubrió el iridio en los compuestos químicos residuales del platino disuelto en agua regia. Tennant también fue quien le dio su nombre, llamándole así en honor a la diosa Iris (del latín iris), que es quien encarna el arcoiris.",
+    "fotoEF": "rutaFotosEF/77.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/77.jpg"
+}

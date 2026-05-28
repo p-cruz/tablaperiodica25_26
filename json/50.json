@@ -1,0 +1,23 @@
+{
+  "simbolo": "Sn",
+  "nombre": "Estaño",
+  "numeroAtomico": 50,
+  "numeroMasico": 119,
+  "grupo": 14,
+  "periodo": 5,
+  "propiedadesFisicas": [
+    "Es un metal blando, plateado, y maleable. Su punto de fusión es y su punto de ebullición es: su punto de fusión es de 231,9oC y su punto de ebullición de 2.270oC. Su densidad es 7,30 g/ml."
+  ],
+  "propiedadesQuimicas": [
+    "Configuración electrónica: [Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>2</sup>",
+    "Ión más probable: Los más comunes son +2 y +4.",
+    "Carácter metálico: Es un metal del grupo del carbono (metal post-transición).",
+    "no es soluble en agua. No se oxida fácilmente con el aire y es resistente a la corrosión."
+  ],
+  "aplicaciones": [
+    "Se usa como protector del hierro, del acero y de diversos metales usados en la fabricación de latas de conserva. También se usa para disminuir la fragilidad del virio. Los compuestos del estaño se usan para fungicidas, tintes, dentífricos y pigmentos. Se usa para realizar bronce, aleación de estaño y cobre."
+  ],
+  "descubrimiento": "Fue descubierto por Julius Pelegrín en 1854. El estaño se conoce desde la antigüedad y ya se menciona en el viejo Testamento. En Mesopotamia ya se hacían armas de bronce (aleación de bronce y estaño).",
+  "fotoEF": "rutaFotosEF/50.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/50.jpg"
+}

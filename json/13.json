@@ -1,0 +1,30 @@
+{
+    "simbolo": "Al",
+    "nombre": "Aluminio",
+    "numeroAtomico": 13,
+    "numeroMasico": 26.98,
+    "grupo": 13,
+    "periodo": 3,
+    "tipoElemento": "metal",
+    "propiedadesFisicas": [
+        "punto de fusión 660",
+        "punto de ebullición 2467",
+        "densidad relativa 2,7 kg/m3"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Ne] 3s<sup>2</sup> 3p<sup>1</sup>",
+        "Ión más probable: El más habitual es el de carga +3.",
+        "Carácter metálico: Es un metal del grupo del boro, ligero y blando.",
+        "estado de oxidacion 3",
+        "electronegatividad 1,5"
+    ],
+    "aplicaciones": [
+        "aviones",
+        "automóviles",
+        "tanques",
+        "estructura portantes en edificios"
+    ],
+    "descubrimiento": "El primer descubrimiento del aluminio como tal tuvo lugar en el año 1808. Fue en ese entonces que el investigador Humphrey Davy pudo descubrir ese metal. El descubrimiento fue como un elemento en la creación de una aleación con hierro, momento a partir del cual recibió el nombre de aluminium.",
+    "fotoEF": "rutaFotosEF/13.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/13.jpg"
+}

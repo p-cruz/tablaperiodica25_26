@@ -1,0 +1,28 @@
+{
+    "simbolo": "Fr",
+    "nombre": "Francio",
+    "numeroAtomico": 87,
+    "numeroMasico": 223,
+    "grupo": 1,
+    "periodo": 7,
+    "tipoElemento": "metal alcalino",
+    "propiedadesFisicas": [                              
+        "Su punto de fusion es 27 C.",
+        "Su punto de ebullicion es 677 C.",
+        "Su densidad es igual a 1.87 g/cm3."
+    ],
+    "propiedadesQuimicas": [
+        "Configuracion electronica: [Rn] 7s1.",
+        "Ion mas probable: +1.",
+        "Caracter metalico: Es un metal alcalino, altamente radiactivo y reactivo.",
+        "Existe solo en formas radiactivas de vida corta. El isotopo mas estable tiene una vida media aproximada de 22 minutos.",
+        "Metal alcalino que se desintegra generando astato, radio y radon."
+    ],
+    "aplicaciones": [
+        "No hay aplicaciones comerciales para el francio debido a su escasez y a su inestabilidad.",
+        "Solo ha sido usado en tareas de investigacion, tanto en biologia como en el campo de la estructura atomica."
+    ],
+    "descubrimiento":"Fue descubierto el 7 de enero de 1939 por Marguerite Perey en el Instituto Curie de Paris. Su existencia habia sido predicha por Mendeleiev hacia 1870. Es un elemento muy radiactivo e inestable que puede obtenerse artificialmente en aceleradores de particulas o reactores nucleares.",
+    "fotoEF": "rutaFotosEF/87.jpg", 
+    "fotoDescubridor": "rutaFotosDescubridores/87.jpg"
+}

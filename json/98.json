@@ -1,0 +1,33 @@
+{
+	"simbolo": "Cf",
+	"nombre": "Californio",
+	"numeroAtomico": 98,
+	"numeroMasico": 251.0796,
+	"grupo": "Tierras raras (Actínidos)",
+	"periodo": 7,
+	"tipoElemento":"Elemento de transición interna",
+	"propiedadesFisicas": [
+		"Es un metal radiactivo sintético de aspecto plateado.",
+		"punto de ebullición: 1470ºC",
+		"punto de fusión: 900ºC",
+		"densidad: 15,100 g/ml",
+		"Baja viscosidad",
+		"Baja densidad",
+		"Radio atómico: 186 pm (calculado)"
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>10</sup>",
+		"Ion más probable: El estado de oxidación más estable es +3 (formando el catión Cf³⁺), aunque también se conocen los estados +2 y +4.",
+		"El californio metálico es muy volátil.",
+		"Solo es soluble en agua en su forma de catión californio+3. Los intentos de reducción-oxidación del ion +3 en disolución han fracasado.)",
+		"Es químicamente reactivo.",
+		"Existen dos formas cristalinas a presión atmosférica y una tercera forma cristalina a 48GPA de presión."
+	],
+	"aplicaciones": [
+		"Hoy tiene aplicación práctica como fuente inicial de neutrones para algunos reactores nucleares.",
+		"En técnicas especiales para la determinación analítica de metales como oro y plata y en la determinación del agua en el petróleo "
+	],
+	"descubrimiento": " Este elemento fue obtenido por primera vez en la Universidad de California en Berkeley en 1950 bombardeando curio con partículas alfa iones de helio-4.",
+	"fotoEF": "rutaFotosEF/98.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/98.jpg"
+}

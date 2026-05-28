@@ -1,0 +1,27 @@
+{
+    "simbolo": "Db",
+    "nombre": "Dubnio",
+    "numeroAtomico": 105,
+    "numeroMasico": 268,
+	  "grupo": 5,
+	  "periodo": 7,
+    "tipoElemento": "Metal de transición",
+    "propiedadesFisicas": [
+		  "Radio atómico: 200 pm",
+      "Vida media : 1.6 segundos, decae emitiendo partículas alfa con energías de 9.06 (55%), 9.10 (25%) y 9.14 (20%) MeV."
+    ],
+    "propiedadesQuimicas": [
+	    "En cuanto a sus propiedades químicas, el dubnio presenta un comportamiento similar al de otros elementos del grupo 5 como el tantalio y el niobio. Sus estados de oxidación más comunes se predicen como +5 (el más estable) y también +4 y +3 en menor medida. Se espera que forme compuestos como óxidos (Db₂O₅) y haluros (DbCl₅, DbF₅), mostrando una reactividad moderada típica de los metales de transición pesados.",
+	    "Configuración electrónica: [Rn] 5f14 6d3 7s2",
+	    "Ion más probable: su ion más probable es Db+5 ya que es más fácil que pierda doselectrones a que gane seis, según la regla del octeto.",
+	    "Carácter metálico: Posee un carácter metálico muy marcado.",
+      "Metal muy pesado.",
+      "Metal radiactivo."
+    ],
+"aplicaciones":[
+  "Se fabrica en pequeñas cantidades y carece de una utilidad específica, por el momento solo es utilizado para investigaciones."
+],
+"descubrimiento": "Fue descubierto por el ruso Georgii Flerov el 27 de abril de 1967 y fue sintetizado el año 1970.",
+"fotoEF": "rutaFotosEF/105.jpg",
+"fotoDescubridor": "rutaFotosDescubridores/105.jpg"
+}

@@ -1,0 +1,26 @@
+{
+    "simbolo": "Mt",
+    "nombre": "Meitnerio",
+    "numeroAtomico": 109,
+    "numeroMasico": 278.156,
+    "grupo": 9,
+    "periodo": 7,
+    "tipoElemento": "Metal de transición",
+    "propiedadesFisicas": [
+        "Sólido metálico (predicho)",
+        "Densidad 37.4 g/cm3",
+        "Vida media de 7.6 s",
+        "Radio atómico: 128 pm"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica completa",
+        "Estados de oxidación +3, +4 y +6",
+        "Alta radiactividad"
+    ],
+    "aplicaciones": [
+        "Uso en investigación científica"
+    ],
+    "descubrimiento": "Descubierto en 1982 en Alemania",
+    "fotoEF": "rutaFotosEF/109.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/109.jpg"
+}

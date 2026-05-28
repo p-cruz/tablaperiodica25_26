@@ -1,0 +1,29 @@
+{
+    "simbolo": "Os",
+    "nombre": "Osmio",
+    "numeroAtomico": 76,
+    "numeroMasico": 190,
+    "grupo": 8,
+    "periodo": 6,
+    "tipoElemento":"Elemento de transición",
+    "propiedadesFisicas": [
+        "Tiene un color blanzo azulado extremadamente duro y frágil",
+        "Punto de ebullición: 5012ºC.",
+        "Punto de fusión: 3033ºC.",
+        "Densidad: 22610 kg/m3"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>6</sup> 4f<sup>14</sup> 5d<sup>6</sup> 6s<sup>2</sup>",      
+        "Ión más probable: Ión más estable es con carga +4.",
+        "Carácter metálico: Es un metal.",
+        "El Osmio es extremadamente inerte incluso a altas temperaturas."
+    ],
+    "aplicaciones": [
+        "Se usa en aleaciones para componentes de alta durabilidad como las puntas estilográficas, contactos eléctricos e implantes médicos.",
+        "Además se usa como catalizador en química.",
+        "Otras aplicaciones donde es usado el osmio es en joyería por su brillo y dureza, como colorante para microscopia y en investigación biométrica para terapias contra el cáncer."
+    ],
+    "descubrimiento": "El osmio fue descubierto en 1803 por Smithson Tennant, a partir del residuo que quedaba al disolver platino nativo en agua regia. Se encuentra en la corteza terrestre como subproducto de la extracción de níquel y cobre, considerado uno de los metales no radiactivos más raros. Debido a su rareza y características, se vende con certificados de autenticidad",
+    "fotoEF": "rutaFotosEF/76.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/76.jpg"
+}

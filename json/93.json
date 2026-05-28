@@ -1,0 +1,31 @@
+{
+    "simbolo": "Np",
+    "nombre": "Neptunio",
+    "numeroAtomico": 93,
+    "numeroMasico": 237.0482,
+    "grupo": 3,
+    "periodo": 7,
+    "tipoElemento":"metal actínido sintético",
+    "propiedadesFisicas": [
+        "El neptunio metálico es dúctil",
+        "Bajo punto de fusión (637ºC o 1179ºF)",
+        "En su forma alfa es de alta densidad, 20.45 g/cm3",
+        "Es un metal de aspecto plateado.",
+        "Radio atómico: 155 pm (calculado)",
+        "alta reactividad, ductilidad y bajo punto de fusión",
+        "Su punto de ebullición es de unos 4000ºC"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>4</sup>6d<sup>1</sup>",
+        "Ion más probable: Los estados de oxidación más comunes son +5 y +4. El catión Np³⁺ es estable, aunque Np⁴⁺ y Np⁵⁺ (como NpO₂⁺) también son muy comunes en solución.",
+        "Puede decirse que la química del neptunio es intermedia entre la del uranio y la del plutonio.",
+        "Forma compuestos con no metales, como haluros ",
+        "Es un metal pirofórico"
+    ],
+    "aplicaciones": [
+        "En las actividades humanas, el neptunio se usa principalmente como combustible para reactores nucleares rápidos o en armas nucleares."
+    ],
+    "descubrimiento": "El 08 de junio de 1940, es descubierto el elemento químico neptunio, cuyo Número atómico es el 93. El descubrimiento lo efectúan Edwin McMilan y Phillip Abelson, quienes realizaron un bombardeo al uranio con neutrones de gran velocidad para inducir una fisión nuclear.",
+    "fotoEF": "rutaFotosEF/93.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/93.jpg"
+}

@@ -1,0 +1,46 @@
+{
+    "simbolo": "Na",
+    "nombre": "Sodio",
+    "numeroAtomico": 11,
+    "numeroMasico": 23,
+    "grupo": 1,
+    "periodo": 3,
+    "tipoElemento": "Metal Alcalino, elemento representativo",
+    "propiedadesFisicas": [
+        "Punto de fusión: 97.81  ºC.",
+        "Punto de ebullición: 881.4 ºC.",
+        "Densidad del sólido (g/ml): 0.968 (20 ºC) y 0.962 (50 ºC).",
+        "Densidad del líquido (g/ml): 0.927 (en el punto de fusión), 0.856 (400 ºC) y 0.82 (500 ºC)."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Ne] 3s<sup>1</sup>",
+        "Ión más probable: El más habitual es el de carga +1.",
+        "Carácter metálico: Es un metal alcalino, altamente reactivo.",
+        "El sodio reacciona con rapidez con el agua, y también con nieve y hielo, para producir hidróxido de sodio e hidrógeno.",
+        "Cuando se expone al aire, el sodio metálico recién cortado pierde su apariencia plateada y adquiere color gris opaco por la formación de un recubrimiento de óxido de sodio.",
+        "El sodio no reacciona con nitrógeno, incluso a temperaturas muy elevadas, pero puede reaccionar con amoniaco para formar amida de sodio.",
+        "El sodio y el hidrógeno reaccionan por encima de los 200ºC (390ºF) para formar el hidruro de sodio.",
+        "El sodio reacciona difícilmente con el carbono, si es que reacciona, pero sí lo hace con los halógenos.",
+        "También reacciona con varios halogenuros metálicos para dar el metal y cloruro de sodio.",
+        "El sodio no reacciona con los hidrocarburos parafínicos, pero forma compuesto de adición con naftaleno y otros compuestos aromáticos policíclicos y con aril alquenos.",
+        "La reacción del sodio con alcoholes es semejante a la reacción del sodio con agua, pero menos rápida.",
+        "Hay dos reacciones generales con halogenuros orgánicos. Una de éstas requiere la condensación de dos compuesto orgánicos que contengan halógenos al eliminar éstos. El segundo tipo de reacciones incluye el reemplazo del halógeno por sodio, para obtener un compuesto organosódico."
+    ],
+    "aplicaciones": [
+        "El sodio metálico se emplea en síntesis orgánica como agente reductor. ",
+        "Es además componente del cloruro de sodio necesario para la vida.",
+        "Se usa en aleaciones antifricción (oro).",
+        "En la fabricación de desodorantes (en combinación con ácidos grasos).",
+        "En la purificación de metales fundidos.",
+        "La aleación Na K, es un material empleado para la transferencia de calor además de desecante para disolventes orgánicos y como reductor. A temperatura ambiente es líquida.",
+        "El sodio también se emplea como refrigerante.",
+        "Aleado con plomo se emplea en la fabricación de aditivos antidetonantes para las gasolinas.",
+        "Se emplea también en la fabricación de células fotoeléctricas.",
+        "Iluminación mediante lámparas de vapor de sodio.",
+        "Los óxidos Na2O generados por combustión controlada con oxígeno se utilizan para intercambiar el dióxido de carbono por oxígeno y regenerar así el aire en espacios cerrados (p. ej. en submarinos).",
+        "El sodio metálico también se emplea en los laboratorios en la desecación de disolventes."
+    ],
+    "descubrimiento": "Sir Humphry Davy, un químico británico, descubrió el sodio en 1807. Encontró el elemento aislándolo de la soda cáustica mediante electrólisis. El científico que descubrió el sodio ,Sir Humphry Davy pudo para descubrir el sodio (Na) en el laboratorio. En 1807, utilizó la electrólisis para eliminar este elemento de la soda cáustica derretida. La electrólisis es un proceso que usa corrientes eléctricas para crear cambios químicos.",
+    "fotoEF": "rutaFotosEF/11.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/11.jpg"
+}

@@ -1,0 +1,33 @@
+{
+    "simbolo": "Gd",
+     "nombre": "Gadolinio",
+     "numeroAtomico": 64,
+     "numeroMasico": 157.25,
+	"grupo": "Tierra rara (Lantánidos)",
+	"periodo": 6,
+	"tipoElemento":"Elemento de transición interna",
+     "propiedadesFisicas": [
+	"Radio atómico: 102 pm",
+               "El gadolinio es el 64 elemento de la tabla periódica.",
+               "En condiciones normales se encuentra en estado solido.",
+               "La vida media del gadolinio es de 6 minutos"
+               ],
+   "propiedadesQuimicas": [
+	"Configuración electrónica: [Xe] 6s<sup>2</sup> 4f<sup>7</sup> 5d<sup>1</sup>",
+	"Ión más probable: Catión carga +3",
+	"Carácter metálico",
+     "Conductividad eléctrica: Los metales son buenos conductores de electricidad, ya que tienen electrones libres que pueden moverse fácilmente a través del material. El gadolinio, como metal, debería tener una buena conductividad eléctrica",
+     "Brillo metálico: Los metales tienden a ser brillantes y reflectantes cuando se encuentran en estado puro, y esto se debe a su capacidad para reflejar la luz",
+     "Maleabilidad y ductilidad: Los metales son generalmente maleables y ductiles, lo que significa que pueden deformarse sin romperse. Pueden ser laminados en láminas delgadas (maleabilidad) o estirados en alambres delgados (ductilidad)",
+     "Punto de fusión y ebullición altos: Los metales tienden a tener puntos de fusión y ebullición elevados en comparación con los no metales. Esto se debe a las fuerzas de enlace metálico que mantienen juntos a los átomos en la estructura cristalina",
+     "Formación de cationes: Los metales tienden a perder electrones para formar iones positivos (cationes). El gadolinio, al igual que otros lantánidos, puede formar cationes Gd³⁺ al perder electrones.",
+     "el gadolinio tiene un peso melecular de 157,25u.",
+     "la densidad del gadolinio es de 7,89 g/ml" 
+     ],
+   "aplicaciones": [
+     "se utiliza como componente de las varillas de control en centrales nucleares ya que retiene muy bien los neutrones, sirven para la fabricación de tubos de colores para televisores y microondas."
+   ],
+    "descubrimiento": "El científico químico Jean Charles Galissard de Marignac fue quien descubrió el Gadolinio por primera vez en 1880, dentro de los minerales de Didimio y Gadolinita en Ginebra. Por medios espectroscópicos lo observó como un óxido blanquecino del mineral Samarskit, para ese entonces lo llamó Y de Samarskit. Sin embargo, el químico francés Paul Émile Lecoq de Bisbaudran hizo la separación entre el metal y el mineral Gadolinia en 1886. Y fue este quien le dio el nombre de Gadolinio. A partir desde entonces se comenzó a extraer este metal de peso medio, principalmente en la mina de Ytterby en Estocolmo, aunque en la actualidad en esa zona este recurso natural ya se encuentra agotado.Hoy día, este metaloide se obtiene a través de la disminución de fluoruro de Calcio con Gadolinio anhidro. Se extrae de los minerales",
+    "fotoEF":"rutaFotosEF/64.jpg",
+    "fotoDescubridor":"rutaFotosDescubridores/64.jpg"
+}

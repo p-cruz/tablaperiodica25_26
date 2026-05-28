@@ -1,0 +1,27 @@
+{
+   "simbolo":"Rn",
+   "nombre":"RADON",
+   "numeroAtomico":86,
+   "numeroMasico":222,
+   "grupo": 18,
+   "periodo": 6,
+   "tipoElemento": "gas noble",
+   "propiedadesFisicas":[
+      "El radon pertenece al grupo de los gases nobles. En su forma gaseosa es incoloro, inodoro e insipido y en forma solida presenta color rojizo.",
+      "Su punto de fusion es -71 C y su punto de ebullicion es -61.8 C.",
+      "En condiciones normales se encuentra en estado gaseoso.",
+      "Su masa media es de 222, lo que implica que tiene aproximadamente 136 neutrones."
+   ],
+   "propiedadesQuimicas":[
+      "Configuracion electronica: [Xe] 4f14 5d10 6s2 6p6.",
+      "No forma iones estables y es quimicamente inerte en condiciones normales.",
+      "Es un no metal perteneciente al grupo de los gases nobles.",
+      "Es muy radiactivo y se desintegra con la emision de particulas alfa."
+   ],
+   "aplicaciones":[
+      "Se ha empleado en estudios geologicos, mediciones de radiactividad ambiental y en algunas aplicaciones medicas historicas relacionadas con radioterapia."
+   ],
+   "descubrimiento":"Fue descubierto en 1900 por Friedrich Ernst Dorn, quien lo denomino radium emanation.",
+   "fotoEF":"rutaFotosEF/86.jpg",
+   "fotoDescubridor":"rutaFotosDescubridores/86.jpg"
+}

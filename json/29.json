@@ -1,0 +1,31 @@
+{
+   "simbolo": "Cu",
+   "nombre": "COBRE",
+   "numeroAtomico": 29,
+   "numeroMasico": 63.546,
+   "grupo": 11,
+   "periodo": 4,
+   "tipoElemento": "Elemento de transición",
+   "propiedadesFisicas": [
+      "El cobre es el 'estándar de oro' para la electricidad. Tiene una de las resistividades eléctricas más bajas de todos los metales. Solo la plata es mejor conductor que él, pero como la plata es mucho más cara, el cobre es el material rey para fabricar cables y componentes electrónicos en todo el mundo",
+      "punto de fusión: 1095 ºC",
+      "punto de ebullición: 2562 ºC",
+      "densidad: 8.96 g/ml",
+      "Buen conductor de la electricidad y el calor"
+   ],
+   "propiedadesQuimicas": [
+      "Configuración electrónica: [Ar] 3d<sup>10</sup> 4s<sup>1</sup>",
+      "Ión más probable: Los más comunes son +1 y +2.",
+      "Carácter metálico: Es un metal de transición, excelente conductor.",
+      "Metal de color rojizo",
+      "Resistente a la corrosión",
+      "Con elevadas temperaturas al aire, el cobre se oxida.",
+      "No es corrosivo y tampoco es radioactivo."
+   ],
+   "aplicaciones": [
+      "El cobre no solo está en los cables, también está en aparatos de la cocina, joyería, instrumentos musicales etc."
+   ],
+   "descubrimiento":"Se descubrió en el 9000 a.C.",
+   "fotoEF": "rutaFotosEF/29.jpg",
+   "fotoDescubridor": "rutaFotosDescubridores/29.jpg"
+}

@@ -1,0 +1,34 @@
+{
+  "simbolo": "Pd",
+  "nombre": "Paladio",
+  "numeroAtomico": 46,
+  "numeroMasico": 106,
+  "grupo": 10,
+  "periodo": 5,
+  "propiedadesFisicas": [
+    "El paladio es un metal de color blanco parecido al platino.",
+    "No se oxida con el aire ni se patina.",
+    "Es el elemento del grupo del platino de menor densidad y menor punto de fusión.",
+    "Es blando y dúctil, pero al templarlo aumenta considerablemente su dureza y su resistencia. Su punto de fusión es 1552°C y su punto de ebullición es 2963°C. Su densidad es 12.02 g/cm³ y su tiempo de vida media es de 6,5 millones de años."
+  ],
+  "propiedadesQuimicas": [
+    "Configuración electrónica: [Kr] 4d<sup>10</sup> 5s<sup>0</sup>.",
+    "Ión más probable: los más comunes son +2 y +4.",
+    "Carácter metálico: es un metal de transición del grupo del platino.",
+    "Puede disolverse en ácido sulfúrico (H2SO4) y en ácido nítrico (HNO3).",
+    "También puede disolverse, aunque lentamente, en ácido clorhídrico (HCl) en presencia de cloro u oxígeno.",
+    "Naturalmente el paladio está compuesto por seis isótopos.",
+    "Los radioisótopos más estables son 107Pd, 103Pd y 100Pd. Existen otros con masas desde 91Pd hasta 123Pd, la mayoría con vida media inferior a media hora."
+  ],
+  "aplicaciones": [
+    "El paladio se usa principalmente en los convertidores catalíticos.",
+    "También se usa en joyería, odontología y relojería.",
+    "Se emplea en tiras reactivas para medir el nivel de azúcar en sangre.",
+    "Se utiliza en bujías de aviones, instrumentos quirúrgicos y contactos eléctricos.",
+    "También se usa para fabricar flautas traveseras profesionales.",
+    "En los mercados financieros está codificado como XPD según la norma ISO 4217."
+  ],
+  "descubrimiento": "William Hyde Wollaston descubrió el paladio en Inglaterra en 1803. Su nombre proviene del asteroide Palas, descubierto aproximadamente al mismo tiempo, y de la diosa griega Palas, asociada a la sabiduría.",
+  "fotoEF": "rutaFotosEF/46.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/46.jpg"
+}

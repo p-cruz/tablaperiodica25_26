@@ -1,0 +1,36 @@
+{
+    "simbolo": "Lr",
+    "nombre": "Lawrencio",
+    "numeroAtomico": 103,
+    "numeroMasico": 262,
+    "grupo": 3,
+    "periodo": 7,
+    "tipoElemento":"metal de transición interna",
+    "propiedadesFisicas": [
+        "Estado físico: Se predice que es un sólido a 20 °C.",
+        "Aspecto: Probablemente plateado, blanco o gris metálico.",
+        "Densidad: Se estima en unos 15.6 g/cm³.",
+        "Punto de fusión: Se estima cerca de los 1627 °C.",
+        "Radiactividad: Es altamente inestable. El isótopo más estable, ^{266}Lr, tiene una vida media de solo 11 horas.",
+        "Es un metal radiactivo sintético.",
+        "Su punto de ebullición es desconocido.",
+        "Es un buen conductor de la electricidad y el calor.",
+        "Radio atómico: 176 pm (calculado)"
+    ],
+    "propiedadesQuimicas": [
+"Estado de oxidación: El más estable es +3. Esto es consistente con el resto de los actínidos pesados.",
+"Configuración electrónica: Es un punto de debate científico. Se ha confirmado que es [Rn] 5f^{14} 7s^2 7p^1. Esto es inusual, ya que se esperaba que el electrón extra estuviera en el orbital 6d, pero efectos relativistas hacen que el orbital 7p sea más favorable.",
+"Comportamiento: Actúa de forma similar al lutecio (Lu). En experimentos de química de fase gaseosa, se ha observado que su primera energía de ionización es notablemente baja, lo que lo hace muy reactivo en ciertas condiciones",
+        "Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>14</sup>7p<sup>1</sup>",
+        "Ion más probable: El estado de oxidación más estable es +3 (formando el catión Lr³⁺).",
+        "En cuanto a su producción, el lawrencio se consigue sólo en forma artificial y se produce en cantidades sumamente pequeñas.",
+        "Puede producirse mediante el bombardeo de californio (Cf) en un acelerador lineal con iones de boro (B) y este proceso deja isótopos de lawrencio.",
+        "En la actualidad se conocen 10 isótopos de lawrencio diferentes, siendo el 262-Lr el más estable."
+    ],
+    "aplicaciones": [
+        "Como sucede con la mayoría de los actínidos, el uso del lawrencio es prácticamente nulo. Se produce en cantidades tan pequeñas que su único empleo es en la investigación científica."
+    ],
+    "descubrimiento": "El lawrencio, nombrado así en honor de E. O. Lawrence, su descubridor. El lawrencio fue descubierto bombardeando átomos de californio con núcleos de boro, en 1961 en el Laboratorio de Radiación Lawrence de la Universidad de California por Albert Ghiorso, A.E. Larsh, R.M. Latimer y T. Sikkeland.",
+    "fotoEF": "rutaFotosEF/103.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/103.jpg"
+ }

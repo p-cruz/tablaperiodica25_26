@@ -1,0 +1,28 @@
+{
+  "simbolo": "Be",
+  "nombre": "BERILIO",
+  "numeroAtomico": 4,
+  "numeroMasico": 9,
+  "grupo": 2,
+  "periodo": 2,
+  "propiedadesFisicas": [
+    "El berilio es un metal frágil con una superficie grisácea.",
+    "Es sólido, duro, liviano y quebradizo.",
+    "Su punto de fusión es 1004oC  y su punto de ebullición es  2497oC.",
+    "Su densidad es 1.85 g/cm3"
+  ],
+  "propiedadesQuimicas": [
+    "Configuración electrónica: 1s<sup>2</sup> 2s<sup>2</sup>",
+    "Ión más probable: El más habitual es el de carga +2.Tiene 2 electrones de valencia",
+    "Carácter metálico: Es un metal alcalinotérreo.",
+    "Conduce electricidad y calor y no es magnético.",
+    "Reactividad baja",
+    "Es relativamente resistente al ataque de ácidos y bases."
+  ],
+  "aplicaciones": [
+    "Se emplea principalmente como endurecedor en aleaciones, especialmente de cobre. Se usa en productos comerciales y de consumo de alta tecnología, entre ellos componentes aereoespaciales, transistores o reactores nucleares."
+  ],
+  "descubrimiento": "Fue descubierto como óxido en 1797 por el químico francés Louis Nicolás Vauquelin; el elemento libre fue aislado por primera vez en 1828 por Friedrick Wöhler y Antonine Alexandre Brutus Bussy, independientemente.",
+  "fotoEF": "rutaFotosEF/4.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/4.jpg"
+}

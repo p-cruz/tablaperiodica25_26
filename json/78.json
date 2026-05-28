@@ -1,0 +1,26 @@
+{
+    "simbolo": "Pt",
+    "nombre": "PLATINO",
+    "numeroAtomico": 78,
+    "numeroMasico": 195,
+    "grupo": 10,
+    "periodo": 6,
+    "propiedadesFisicas": [
+        "El punto de fusión del platino es 1768ºC y el de ebullición de 3825ºC.",
+        "Su densidad es de 21,4g/ml.",
+        "Su tiempo de vida media puede variar pero el del isotopo número 195 es de 4,02 días.",
+        "Es insípido, incoloro e inodoro."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Xe] 4f<sup>14</sup> 5d<sup>9</sup> 6s<sup>1</sup>",
+        "Ión más probable: Los más comunes son +2 y +4.",
+        "Carácter metálico: Es un metal de transición (del grupo del platino), noble.",
+        "Químicamente es bastante inerte y resiste el ataque por el aire, el agua, los ácido aisladamente y los reactivos ordinarios "
+    ],
+    "aplicaciones": [
+        "El platino se usa en fertilizantes y explosivos como una gasa para la conversión catalítica de amoníaco en ácido nítrico. También se usa en la fabricación de siliconas para los sectores aeroespacial, automoción y construcción."
+    ],
+    "descubrimiento": "Año 1735. Antonio de Ulloa fue responsable de la misión a Ecuador. Durante este viaje, descubrió en las minas de oro de río Pinto de Perú, un nuevo mineral al que llamó “Platina de Pinto” por su semejanza a la plata y por haberlo encontrado en ese río. Sin embargo, con el tiempo se quedó con el nombre de platino. .",
+    "fotoEF": "rutaFotosEF/fichero.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/78.jpg"
+}

@@ -1,0 +1,35 @@
+{
+        "simbolo": "La",
+        "nombre": "Lantano",
+        "numeroAtomico": 57,
+        "numeroMasico": 138.9055,
+        "grupo": 3,
+        "periodo": 6,
+        "tipoElemento":"Es un elemento de transición interna o Tierras Raras",
+        "propiedadesFisicas": [
+                "punto de fusión: 920 ºC",
+                "punto de ebullición: 3464 ºC",
+                "sólido a temperatura ambiente",
+                "En estado natural es un sólido blando y dúctil, de color blanco plateado",
+                "Densidad: 6,162 g/cm3",
+                "Es buen conductor del calor y la electricidad",
+                "Posee propiedades magnéticas débiles"
+        ],
+        "propiedadesQuimicas": [
+                "Configuración electrónica: [Xe] 5d<sup>1</sup> 6s<sup>2</sup>",
+                "Ión más probable: El más habitual es el de carga +3.",
+                "Carácter metálico: Es un metal de transición (o lantánido), reactivo.",
+                "Es metálico",
+                "No es corrosivo",
+                "No es radiactivo",
+                "Es muy reactivo y se oxida rápidamente al aire formando óxido de lantano (III)",
+                "Arde a temperaturas superiores a 450ºC",
+                "Debe almacenarse en aceite o atmósfera inerte debido a su alta reactividad con la humedad y el aire"
+        ],
+        "aplicaciones": [
+                "El lantano se usa para reducir los niveles de fosfato en la sangre en las personas con enfermedad renal."
+        ],
+        "descubrimiento": "Descubierto por el químico sueco Carl Gustaf Mosander en el año 1839. Debe su nombre al verbo griego lanthaneîn (λανθανεῖν) que significa \"escondido\", ya que el metal se encontraba \"escondido\" en un mineral de cerio. Mosander descubrió el elemento lantano en el nitrato de cerio impuro.",
+        "fotoEF": "rutaFotosEF/57.jpg",
+        "fotoDescubridor": "rutaFotosDescubridores/57.jpg"
+}

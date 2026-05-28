@@ -1,0 +1,35 @@
+{
+  "simbolo": "As",
+  "nombre": "Arsénico",
+  "numeroAtomico": 33,
+  "numeroMasico": 74.9216,
+  "grupo": 15,
+  "periodo": 4,
+  "TipoElemento": "metaloide sólido",
+  "propiedadesFisicas": [
+    "Punto de fusión: 816,8 ºC.",
+    "Punto de ebullición: 613 ºC.",
+    "Densidad: De 5.4 a 5.9 g/cm3.",
+    "Color: Gris acero, blanco estaño, a menudo con pátina negra",
+    "Brillo: Metálico, opaco",
+    "Estructura cristalina: Romboédrica (trigonal)"
+  ],
+  "propiedadesQuimicas": [
+    "Configuración electrónica: [Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>3</sup>",
+    "Ión más probable: Los más comunes son -3 (arsenuro) y +3 o +5 (en compuestos).",
+    "Carácter metálico: Es un metaloide (semimetal).",
+    "Metaloide (arsénico metálico).",
+    "Existe el ácido arsénico.",
+    "Es uno de los 22 elementos conocidos que se componen de un solo nucleido estable, 7533As.",
+    "Se conocen otros 17 nucleidos radiactivos de As.",
+    "Existen tres alótropos o modificaciones polimórficas del arsénico.",
+    "Oxidación y Combustión: Al calentarse, el arsénico se oxida rápidamente, sublimando a 613 °C y liberando humos de anhídrido arsenioso (As4O6), altamente tóxicos."
+  ],
+  "aplicaciones": [
+    "Agente de aleación.",
+    "Procesamiento de vidrio, pigmentos, textiles, papel, adhesivos metálicos, protectores de la madera y municiones."
+  ],
+  "descubrimiento": "San Alberto Magno en 1250.",
+  "fotoEF": "rutaFotosEF/33.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/33.jpg"
+}

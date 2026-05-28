@@ -1,0 +1,32 @@
+{
+    "simbolo": "Ga",
+    "nombre": "GALIO",
+    "numeroAtomico": 31,
+    "numeroMasico": 69.7200,
+    "grupo": 13,
+    "periodo": 4,
+    "tipoElemento": "Otros metales",
+    "propiedadesFisicas": [
+        "punto de fusión 29.67 ºC",
+        "punto de ebullición 2205 ºC "
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>1</sup>",
+        "Ión más probable: El más habitual es el de carga +3.",
+        "Carácter metálico: Es un metal del grupo del boro.",
+        "Es anfótero",
+        "Número de oxidación 3+ y forma hidróxidos, óxidos y sales."
+    ],
+    "aplicaciones": [
+        "Aparatos de refrigeración",
+        "Fuentes de luz",
+        "El uso principal de este elemento químico es en la construcción de semiconductores. Se utilizan circuitos de microondas y en ciertas ocasiones aplicaciones de infrarrojos.",
+        "De la misma forma, se emplea en la fabricación de diodos LED y láser de colores violeta y azul.",
+        "armamentística y armas nucleares",
+        "telescopios",
+        "energía solar"
+    ],
+    "descubrimiento": "Paul Émile Lecoq de Boisbaudran (1838-1912) descubre mediante espectroscopia el galio (Ga), el elemento número 31, al examinar una blenda de zinc y aparecer dos líneas ultravioletas, una característica espectral de este elemento. Ese mismo año, lo aisló por electrólisis del hidróxido en una solución de hidróxido potásico (KOH) y le dio el nombre de su país natal Gallia aunque su existencia había sido pronosticada en 1871 por Mendeleev, quien lo llamó eka-aluminio.",
+    "fotoEF": "rutaFotosEF/31.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/31.jpg"
+}

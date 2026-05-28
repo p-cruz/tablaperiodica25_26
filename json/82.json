@@ -1,0 +1,32 @@
+{
+    "simbolo":"Pb",
+    "nombre": "PLOMO",
+    "numeroAtomico": 82,
+    "numeroMasico": 207,
+    "grupo": 14,
+    "periodo": 6,
+    "tipoElemento":"metal post-transicion",
+    "propiedadesFisicas": [
+        "Estado fisico: Solido a temperatura ambiente (20 C).", 
+        "Color: Gris azulado metalico (brillante al corte, mate al oxidarse).",  
+        "Densidad: 11.34 g/cm3. Esto lo hace ideal para blindajes contra radiacion.", 
+        "Punto de fusion: 327.5 C.",  
+        "Punto de ebullicion: 1749 C.",
+        "El plomo es un metal solido, pesado, denso y de color gris azulado, que al empañarse se torna gris mate. Ademas es un elemento flexible."
+    ],
+    "propiedadesQuimicas": [
+        "Estados de oxidacion: Sus estados mas comunes son +2 y +4. El estado +2 es el mas estable, mientras que el +4 es un oxidante fuerte.",
+        "Anfoterismo: El plomo puede reaccionar tanto con acidos como con bases fuertes, lo que lo clasifica como un elemento anfotero.",
+        "Reactividad con el aire: Al exponerse al aire humedo, forma una capa superficial que lo protege de una corrosion mas profunda (pasivacion).",
+        "Reactividad con acidos: Es muy resistente al acido sulfurico y al acido clorhidrico porque forma sales insolubles que crean una barrera protectora.",
+        "Sin embargo, se disuelve facilmente en acido nitrico, liberando oxidos de nitrogeno.",
+        "Toxicidad: Quimicamente, el plomo compite con metales esenciales como el calcio, el hierro y el zinc en el organismo, lo que interfiere con la produccion de hemoglobina y las funciones neuronales.",
+        "Caracter metalico: Es un metal post-transicion, pesado y toxico."
+    ],
+    "aplicaciones": [
+        "Se utiliza para fabricar tuberias subterraneas de agua, almacenar material radioactivo, recubrir conexiones electricas, fabricar ceramicas y plasticos, realizar aleaciones y soldaduras, fabricar balas, baterias de traccion, proteger contra la radiacion, elaborar vidrios especiales, proteger contra la humedad y fabricar pinturas y pigmentos."
+    ],
+    "descubrimiento":"El plomo es un elemento conocido desde la antiguedad. Fue utilizado por egipcios, mesopotamicos y civilizaciones antiguas alrededor del 7000 a.C. No se conoce un descubridor especifico debido a su uso milenario.",
+    "fotoEF": "rutaFotosEF/82.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/82.jpg"
+}

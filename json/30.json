@@ -1,0 +1,35 @@
+{
+	"simbolo": "Zn",
+	"nombre": "ZINC",
+	"numeroAtomico": 30,
+	"numeroMasico": 65,
+	"grupo": 12,
+	"periodo": 4,
+	"tipoElemento": "Elemento de transición",
+	"propiedadesFisicas": [
+		"El zinc es un metal de transición, parecido al magnesio y al berilio. Es de color grisaceo, duro y buen conductor de calor y de electricidad. Es dificil de moldear en frio y no es ferromagnético.",
+		"Su punto de fusión es de 419.5 ºC ",
+		"Su punto de ebullición es de 907 ºC ",
+		"Su densidad es de 7.14g/ml",
+		"Buen conductor eléctrico y térmico, aunque quebradizo a temperatura ambiente, volviéndose maleable entre 100-150°C. ",
+		"moderadamente duro",
+		"maleable y dúctil"
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica: [Ar] 3d<sup>10</sup> 4s<sup>2</sup>",
+		"Ión más probable: El más habitual es el de carga +2.",
+		"Carácter metálico: Es un metal de transición (aunque con orbital d lleno).",
+		"Se conocen 15 isótopos.",
+		"Químicamente es activo, y reacciona con ácidos no oxidantes pasando a un estado de oxidación +2 en el que libera hidrógeno para formar iones zinc, (Zn+2)",
+		"Puede disolverse en soluciones fuertemente alcalinas para formar iones dinegativos de tetrahidroxizincatos",
+		"es anfótero",
+		"agente reductor moderadamente activo",
+		"forma una capa protectora de óxido/carbonato"
+	],
+	"aplicaciones": [
+		"El zinc es un mineral esencial para la sociedad moderna. Se usa como revestimento contra la corrosión en el acero, para fabricar componentes de precisión, como material de construcción para producir bronce y caucho, en la elaboración de productos farmacéuticos y cosméticos, en fertilizantes y suplementos alimenticios"
+	],
+	"descubrimiento": "El zinc se conoce de antes, antes de que fueran conocidas sus propiedades. El científico suizo Paracelso en el siglo 16 propuso que se trataba de un metal con propiedades propias, y lo denominó zincum pero después Andreas Marggraf lo volvió a nombrar y el tratado escrito por Marggraf fue tan específico que se lo considera el descubridor de este metal. Se suele considerar al alemán Andreas Marggraf (1709-82) como el descubridor del zinc en 1746, cuando creyó haber aislado un nuevo elemento metálico desconocido hasta entonces.",
+	"fotoEF": "rutaFotosEF/30.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/30.jpg"
+}

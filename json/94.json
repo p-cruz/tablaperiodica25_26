@@ -1,0 +1,29 @@
+{
+	"simbolo": "Pu",
+	"nombre": "Plutonio",
+	"numeroAtomico": 94,
+	"numeroMasico": 244.0642,
+	"grupo": 3,
+	"periodo": 7,
+	"tipoElemento": "metal de transición interna",
+	"propiedadesFisicas": [
+		"Su color es blanco plateado",
+		"El estado del plutonio en su forma natural es sólido.",
+		"Es un metal de aspecto blanco plateado.",
+		"Su punto de fusión es 639ºC y su punto de ebullición es 3232ºC",
+		"Su densidad es de 19,8 g/ml",
+		"Radio atómico: 151 pm (calculado)"
+	],
+	"propiedadesQuimicas": [
+		"Es un metal actínido altamente radiactivo",
+		"Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>6</sup>",
+		"Ion más probable: El estado de oxidación más común y estable es +4 (formando el catión Pu⁴⁺), aunque también presenta los estados +3, +5 y +6.",
+		"El plutonio es un metal radiactivo, muy electropositivo que muestra diversos estados de oxidación en solución y en estado sólido."
+	],
+	"aplicaciones": [
+		"El plutonio-239 se usa para fabricar armas nucleares. El plutonio-238 se usa como fuente de energía en baterías para generar electricidad en vehículos tales como naves espaciales y sondas inerplanetarias"
+	],
+	"descubrimiento": "El plutonio fue descubierto el 14 de diciembre de 1940 por un equipo dirigido Glenn T. Seabrog y Edwin McMillan en el laboratorio de la Universidad de California, Berdeley bombardeando uranio-238 con deuterio.",
+	"fotoEF": "rutaFotosEF/94.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/94.jpg"
+}

@@ -1,0 +1,31 @@
+﻿{
+    "simbolo": "Cs",
+    "nombre": "Cesio",
+    "numeroAtomico": 55,
+    "numeroMasico": 132.90545,
+    "grupo": 1,
+    "periodo": 6,
+    "tipoElemento":"Elemento representativo", 
+    "propiedadesFisicas": ["alta conductividad eléctrica y termica",
+                        "punto de fusión: 28.7 ºC",
+                        "punto de ebullición: 690 ºC",
+            "El cesio es un metal blando, ligero y de bajo punto de fusión. "
+                        ],
+    "propiedadesQuimicas": ["es el metal mas reactivo y en contacto con el aire se oxida rapidamente",
+                        "Configuración electrónica: [Xe] 6s<sup>1</sup>",
+                        "Ión más probable: El más habitual es el de carga +1.",
+                        "Carácter metálico: Es un metal alcalino, el más reactivo de todos los elementos.",
+                        "El cesio es un metal alcalino blando de color blanco plateado que se vuelve líquido a baja temperatura en comparación con otros metales.",
+                        "Reacciona fuertemente con el agua, formando hidróxido de cesio y liberando hidrógeno molecular.",
+            "El hidruro de cesio o hidruro de cesio (CsH) es un compuesto de cesio e hidrógeno . Es el hidruro de metal alcalino estable más reactivo de todos. ",
+            "Es el más reactivo de los metales alcalinos y en realidad es el menos electronegativo y el más reactivo de todos los elementos.",
+            "El cesio reacciona en forma vigorosa con oxígeno para formar una mezcla de óxidos."
+                        ],
+    "aplicaciones": [
+        "Los compuestos de cesio se usan en la producción de vidrio y cerámica, como absorbentes en plantas de purificación de dióxido de carbono, como componentes en bulbos de radio y en microquímica.",
+        "Las sales de cesio se han utilizado en medicina como agentes anti shock después de la administración de drogas de arsénico."
+    ],
+    "descubrimiento":"El cesio fue descubierto espectroscópicamente por Bunsen y Kirchhoff en muestras de agua mineral de Durkheim. Su identificación se basó en dos líneas brillantes de color azul que aparecían en el espectro. Las sales de cesio fueron aisladas por Bunsen precipitándolas del agua mineral. Aisló el carbonato y el cloruro de cesio. No fue hasta 1882 cuando Setterberg lo aisló mediante electrólisis del cianuro de cesio fundido.",
+    "fotoEF": "rutaFotosEF/55.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/55.jpg"
+}

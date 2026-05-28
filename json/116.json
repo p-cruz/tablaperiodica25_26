@@ -1,0 +1,26 @@
+{
+    "simbolo": "Lv",
+    "nombre": "Livermorio",
+    "numeroAtomico": 116,
+    "numeroMasico": 293.204,
+    "grupo": 16,
+    "periodo": 7,
+    "tipoElemento":"",
+    "propiedadesFisicas": [
+        "Es un elemento sintético de naturaleza radiactiva que no está en el medio ambiente, se le conocía como Ununhexio, es radiactivo y transactinido. Se cree que su estado natural es sólido y sus isótopos muy inestables. Es muy pesado y se le califica como metal, se descompone con rapidez.",
+        "Su punto de fusión y su punto de ebullición son desconocidos. Su densidad es 12,9 g/cm³.",
+        "Su tiempo de vida media: 53 milisegundos (para el isótopo 293Lv)",
+        "Radio atómico: 183 pm (calculado)"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>14</sup>6d<sup>10</sup>7p<sup>4</sup>",
+        "Ion más probable: Se predice que sus estados de oxidación sean +2 y +4, similar al polonio.",
+        "Se descompone con rapidez, posee 4 isótopos bastante inestables."
+    ],
+    "aplicaciones": [
+        "Por su inestabilidad, vida media tan reducida y dificultad de obtención, en la actualidad son nulas las aplicaciones industriales comerciales o propagandísticas de este elemento muy pesado por lo que su aplicación se relega solo a la investigación científica."
+    ],
+    "descubrimiento": "Fue descubierto en el año 2000 por el Instituto Conjunto de Investigación Nuclear (JINR) en Dubna, Rusia, y el Laboratorio Nacional Lawrence Livermore (LLNL) en California. Fue producido bombardeando átomos de curio-248 con iones de calcio-48.",
+    "fotoEF": "rutaFotosEF/fichero.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/116.jpg"
+ }

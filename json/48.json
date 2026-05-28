@@ -1,0 +1,36 @@
+{
+  "simbolo": "Cd",
+  "nombre": "Cadmio",
+  "numeroAtomico": 48,
+  "numeroMasico": 112,
+  "grupo": 12,
+  "periodo": 5,
+  "categoria": "Metal de transición",
+  "propiedadesFisicas": [
+    "Es un metal dúctil, sólido de color blanco plateado con un ligero matiz azulado.",
+    "Es más blando y maleable que el zinc, pero un poco más duro que el estaño.",
+    "Su punto de fusión es 321°C y su punto de ebullición es 765°C.",
+    "Su densidad es 8.65 g/cm³.",
+    "Su tiempo de vida media está entre 30 y 40 años."
+  ],
+  "propiedadesQuimicas": [
+    "Es altamente tóxico.",
+    "Configuración electrónica: [Kr] 4d<sup>10</sup> 5s<sup>2</sup>.",
+    "Ión más probable: +2.",
+    "Carácter metálico: metal de transición (con orbital d lleno).",
+    "Es insoluble en agua.",
+    "Reacciona con oxígeno y ácidos.",
+    "A altas temperaturas es inflamable y forma óxido de cadmio."
+  ],
+  "aplicaciones": [
+    "Se utiliza para fabricar baterías.",
+    "Se emplea en pigmentos.",
+    "Se usa en revestimientos de metal y plásticos.",
+    "Se utiliza en aleaciones de baja temperatura con bajo coeficiente de fricción.",
+    "Se emplea en sistemas de seguridad contra incendios mediante fusibles térmicos.",
+    "Se utiliza en barras de control de reactores nucleares."
+  ],
+  "descubrimiento": "Fue descubierto en Alemania en 1817 por Friedrich Strohmeyer. Lo encontró como impureza en muestras de carbonato de zinc.",
+  "fotoEF": "rutaFotosEF/48.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/48.jpg"
+}

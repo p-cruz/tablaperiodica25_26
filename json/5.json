@@ -1,0 +1,36 @@
+{
+  "simbolo": "B",
+  "nombre": "Boro",
+  "numeroAtomico": 5,
+  "numeroMasico": 10.81,
+  "grupo": 13,
+  "periodo": 2,
+  "propiedadesFisicas": [
+    "Punto de ebullición: 4000ºC.",
+    "Punto de fusión: 2075ºC.",
+    "Densidad: 2460 kg/m3",
+    "Dureza: 9.3 Mohs",
+    "Color: Negro o gris plateado",
+    "Forma: Cristalina"
+  ],
+  "propiedadesQuimicas": [
+    "Configuración electrónica: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>",
+    "Ión más probable: Aunque puede formar iones con carga +3, predomina la formación de enlaces covalentes.",
+    "Carácter metálico: Es un semimetal o metaloide.",
+    "El Boro elemental es relativamente inerte a temperaturas ordinarias."
+  ],
+  "aplicaciones": [
+    "El compuesto de boro de mayor importancia económica es el bórax que se emplea en grandes cantidades en la fabricación de fibra de vidrio transparente y perborato de sodio.",
+    "Las fibras de boro usadas en aplicaciones mecánicas especiales, en el ámbito aeroespacial, alcanzan resistencias mecánicas de hasta 3600 MPa.",
+    "El boro amorfo se usa en fuegos pirotécnicos por su color verde.",
+    "El ácido bórico se emplea en productos textiles.",
+    "El boro es usado como semiconductor.",
+    "Los compuestos de boro tienen muchas aplicaciones en la síntesis orgánica y en la fabricación de cristales de borosilicato.",
+    "Algunos compuestos se utilizan como conservantes de la madera, siendo de gran interés su uso por su baja toxicidad.",
+    "El B-10 se usa en el control de los reactores nucleares, como escudo frente a las radiaciones y en la detección de neutrones.",
+    "Los hidruros de boro se oxidan con facilidad liberando gran cantidad de energía por lo que se ha estudiado su uso como combustible."
+  ],
+  "descubrimiento": "Fue descubierto el 30 de junio de 1808, este elemento fue descubierto por Louis Joseph Gay-Lussac, Louis Jacques Thénard y Humphry Davy.",
+  "fotoEF": "rutaFotosEF/5.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/5.jpg"
+}

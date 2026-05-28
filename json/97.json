@@ -1,0 +1,28 @@
+{
+    "simbolo": "Bk",
+    "nombre": "Berkelio",
+    "numeroAtomico": 97,
+    "numeroMasico": 247.0703,
+    "grupo": "Tierras raras (Actínidos)",
+    "periodo": 7,
+    "tipoElemento":"Elemento de transición interna",
+    "propiedadesFisicas": [
+        "El berkelio (Bk) es un elemento químico sintético, radiactivo y transuránico, nombrado por la ciudad de Berkeley donde se descubrió en 1949.",
+	"Es un metal plateado, químicamente reactivo, que se produce en pequeñas cantidades mediante reacciones nucleares y se utiliza exclusivamente en          investigación para crear elementos más pesados, siendo peligroso para la salud por su radiactividad. ",
+        "Punto de fusión: 984,8 ºC",
+        "Punto de ebullición: 2627 °C (estimado)",
+        "Densidad: 14.78 g/cm³ (fase alfa)",
+        "Radio atómico: 170 pm (calculado)"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>9</sup>",
+        "Ion más probable: El estado de oxidación más estable es +3 (formando el catión Bk³⁺), aunque el estado +4 también es común.",
+        "Es un metal químicamente activo, lo que significa que reacciona con diversos elementos químicos.En presencia de aire u oxígeno, especialmente a temperaturas elevadas, se oxida rápidamente, formando óxido de berkelio. Es fácilmente soluble en soluciones de ácidos minerales diluidos."
+    ],
+    "aplicaciones": [
+        "Su principal uso se limita a la investigación científica, fundamentalmente en el estudio de reacciones nucleares y para producir elementos transuránicos más pesados, como el teneso. Sirve como blanco para estudiar las propiedades de desintegración y reacciones nucleares. "
+    ],
+    "descubrimiento": "Fue descubierto por Glenn Seaborg, Albert Ghiorso y Stanley Thompson en 1949",
+    "fotoEF": "rutaFotosEF/97.jpg" ,
+    "fotoDescubridor": "rutaFotosDescubridores/97.jpg"
+ }

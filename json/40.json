@@ -1,0 +1,34 @@
+{
+	"simbolo": "Zr",
+	"nombre": "Circonio",
+	"numeroAtomico": 40,
+	"numeroMasico": 91.22,
+	"grupo": 4,
+	"periodo": 5,
+	"tipoElemento": "Elemento de trasición",
+	"propiedadesFisicas": [
+		"punto de fusión: 1855 °C",
+		"punto de ebullición: entre los 4371 °C y los 4409 °C",
+		"Radio atómico: 216 pm",
+		"El zirconio es un metal lustroso y plateado. El estado del zirconio en su forma natural es sólido. El zirconio es un elemento químico de aspecto blanco grisáceo y pertenece al grupo de los metales de transición.",
+		"Su tiempo de vida media:131 nanosegundos.",
+		"Su densidad es 6,49(g/ml).",
+		"Dúctil y supremamente resistente a la corrosión y también al calor."
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica: [Kr] 5s<sup<2<7sup> 4d<sup>2</sup>",
+		"Ión más probable: Catión de carga +4",
+		"Carácter metálico: Metal de comportamiento típico, al ser de transición",
+		"Electronegatividad: 1.4",
+		"Es muy reactivo químicamente y solo se halla combinado.",
+		"El gas tiene una densidad de 0.071 g/l a 0ºC y 1 atm."
+	],
+	"aplicaciones": [
+		"El Circonio es un metal grisáceo, brillante, dúctil y muy resistente a la corrosión y altas temperaturas, esencial en la industria nuclear (recubrimiento de combustible), medicina (implantes dentales, prótesis), cerámica (cuchillos, refractarios) y aleaciones (aeroespacial) por su estabilidad química y baja absorción de neutrones, siendo extraído del mineral circón y con aplicaciones que van desde la pirotecnia hasta joyas. Las aleaciones de zirconio con zinc se vuelven magnéticas a temperaturas inferiores a -238 grados centígrados. El zirconio se utiliza también en tubos de vacío, lámparas de flash para fotografía, en cebadores explosivos y en filamentos de las lámparas."
+	],
+	"descubrimiento": [
+		"Fue descubierto por Martin Heinrich Klaproth en el año 1789, aunque como piedra preciosa ya era conocido desde la antigüedad."
+	],
+	"fotoEF": "rutaFotosEF/40.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/40.jpg"
+}

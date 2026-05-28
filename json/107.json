@@ -1,0 +1,30 @@
+{
+    "simbolo": "Bh",
+    "nombre": "Bohrio",
+    "numeroAtomico": 107,
+    "numeroMasico": 264,
+    "grupo": 7,
+    "periodo": 7,
+    "tipoElemento": "Metal de transición externa",
+    "propiedadesFisicas": [
+        "Sólido a 298 K",
+        "Densidad estimada entre 26-27 g/cm3",
+        "Radio atómico: 200 pm",
+        "Tiempo de vida medio de 0.44 segundos"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Xe] 7s2 5f14 6d5",
+        "Ion más probable: +2",
+        "Carácter metálico",
+        "Propiedades similares al renio",
+        "Estado de oxidación principal +7",
+        "Forma el compuesto BhO3Cl"
+    ],
+    "aplicaciones": [
+        "Sin aplicaciones prácticas actualmente",
+        "Uso en investigación científica"
+    ],
+    "descubrimiento": "Sintetizado en 1981 en Darmstadt, Alemania",
+    "fotoEF": "rutaFotosEF/107.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/107.jpg"
+}

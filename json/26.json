@@ -1,0 +1,37 @@
+{
+	"simbolo": "Fe",
+	"nombre": "HIERRO",
+	"numeroAtomico": 26,
+	"numeroMasico": 56,
+	"grupo": 8,
+	"periodo": 4,
+	"tipoElemento": "metal de transición",
+	"propiedadesFisicas": [
+		"Es un metal de color gris plateado, muy maleable y magnético. en la naturaleza no se encuentra en estado puro y tampoco es utilizado en estado puro, sino que se combina con otros metales o con otros elementos químicos, formando aleaciones. ",
+		"Es un excelente conductor de electricidad y calor, aunque no tanto como el cobre o el aluminio.",
+		"En la escala de Mohs, el hierro puro tiene una dureza de 4",
+		"Es un metal muy reactivo que se oxida fácilmente",
+		"Su punto de fusión es de 1538ºC",
+		"Su punto de ebullición es de 2862ºC",
+		"Su densidad es de 7.874g/ml"
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica: [Ar] 3d<sup>6</sup> 4s<sup>2</sup>",
+		"Ión más probable: Los más comunes son +2 (ferroso) y +3 (férrico).",
+		"Carácter metálico: Es un metal de transición, ferromagnético.",
+		"La presencia del hierro en el agua provoca precipitación y coloración no deseada. Existen técnicas de separación del hierro del agua. ",
+		"Este metal es un buen agente reductor. En la mayor parte de los compuestos de hierro está presente el ion ferroso, hierro(II), o el ion férrico, hierro(III), como una unidad distinta.",
+		"Los complejos con cianuro, tanto del ion ferroso como del férrico, son muy estables y no son intensamente magnéticos, en contraposición a la mayor parte de los complejos de coordinación del hierro. Los complejos con cianuro forman sales coloradas."
+	],
+	"aplicaciones": [
+		"El hierro tiene múltiples aplicaciones. El hierro es un material imprescindible en el sector de la construcción.",
+		"En el sector de las obras públicas hay que decir que el hierro también se utiliza mucho.",
+		"Mobiliario",
+		"Fabricación",
+		"Industria",
+		"Invernaderos"
+	],
+	"descubrimiento": "No se sabe ciertamente quien descubrió el hierro. Los primeros usos del hierro fueron en el año 3500 a.c por los Sumerios y los Egipcios.",
+	"fotoEF": "rutaFotosEF/26.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/26.jpg"
+}

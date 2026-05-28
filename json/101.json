@@ -1,0 +1,33 @@
+{
+    "simbolo": "Md",
+    "nombre": "Mendelevio",
+    "numeroAtomico": 101,
+    "numeroMasico": 258,
+    "grupo": 3,
+    "periodo": 7,
+    "tipoElemento":"Es un metal radiactivo sintético.",
+    "propiedadesFisicas": [
+        "Su punto de fusión es de 826,8 °C.",
+        "Su punto de ebullición es desconocido.",
+        "Su densidad es de 10,3 aprox g/cm³(no se conoce con exactitud)",
+        "Su vida media comprende desde unos pocos segundos hasta 55 días aproximadamente.",
+        "Radio atómico: 187 pm (calculado)"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica:[Rn] 5f13 7s2",
+        "Ion más probable: El estado de oxidación más estable es +3 (Md³⁺), aunque también se ha confirmado el estado +2.",
+        "Este elemento es un metal.",
+        "El mendelevio no es corrosivo.",
+        "Es un metal oxidante (se ha confirmado los estados de oxidación +2 y +3).",
+        "No se sabe si es inflamable o no.",
+        "Tiene la capacidad de formar hidróxidos y fluoruros insolubles.",
+        "Posee isótopos conocidos con números de masa que van desde 248 a 258.",
+        "Es un metal radioactivo."
+    ],
+    "aplicaciones": [
+        "Al ser un elemento cuya producción es mínima y no se encuentra en la naturaleza, el mendelevio no tiene usos comerciales. Prácticamente carece de utilidad fuera del laboratorio y su único uso refiere a la investigación científica."
+    ],
+    "descubrimiento": "El mendelevio se descubrió por Choppin, Stanley G. Thompson y Glenn T. Seaborg el 19 de febrero de 1955.",
+    "fotoEF": "rutaFotosEF/fichero.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/101.jpg"
+}

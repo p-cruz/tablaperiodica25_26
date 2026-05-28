@@ -1,0 +1,31 @@
+{
+  "simbolo": "In",
+  "nombre": "Indio",
+  "numeroAtomico": 49,
+  "numeroMasico": 114.818,
+  "grupo": 13,
+  "periodo": 5,
+  "categoria": "Metal post-transición",
+  "propiedadesFisicas": [
+    "Punto de fusión: 156,6 °C (429,9 K).",
+    "Punto de ebullición: 2072 °C (2347 K).",
+    "Densidad: 7,31 g/cm³.",
+    "Masa atómica: 114,82 g/mol.",
+    "Es maleable.",
+    "Es fácilmente fundible.",
+    "Tiene estructura cristalina tetragonal."
+  ],
+  "propiedadesQuimicas": [
+    "Configuración electrónica: [Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>1</sup>.",
+    "Ión más probable: +3.",
+    "Carácter metálico: metal post-transición, blando."
+  ],
+  "aplicaciones": [
+    "Se utiliza para soldar alambres de plomo en transistores de germanio.",
+    "Se emplea en prótesis dentales y motores eléctricos.",
+    "Se usa en varillas de control nuclear."
+  ],
+  "descubrimiento": "Fue descubierto por Ferdinand Reich y Theodor Richter en 1863 mientras buscaban talio en minerales de cinc mediante espectroscopía. Fue aislado por Richter en 1867.",
+  "fotoEF": "rutaFotosEF/49.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/49.jpg"
+}

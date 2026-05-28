@@ -1,0 +1,31 @@
+{
+    "simbolo": "Pa",
+    "nombre": "Protactinio",
+    "numeroAtomico": 91,
+    "numeroMasico": 231.03588,
+    "grupo": 3,
+    "periodo": 7,
+    "tipoElemento":"metal de transición interna",
+    "propiedadesFisicas": [
+        "Al ser un actínido, su propiedad más crítica es que es altamente radiactivo. El $Pa-231$ es un emisor de partículas alfa y es extremadamente tóxico si se ingiere o inhala. Debido a esta inestabilidad nuclear, no tiene usos comerciales fuera de la investigación científica básica.",
+        "Es un metal de aspecto blanco plateado brillante que pertenece al grupo de los actínidos.",
+        "Radio atómico: 163 pm (calculado)",
+        "densidad de 15370 kg/m³.",
+        "punto de fusión de 2113 K (1840 °C)",
+        "punto de ebullición es de 4300 K (4027 °C)",
+        "conductividad térmica de 47 W/(K*m)."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>2</sup>6d<sup>1</sup>",
+        "Ion más probable: Su estado de oxidación más frecuente es +5, formando el catión Pa⁵⁺.",
+        "Sus principales estados de oxidación son +2, +3, +4 y +5.",
+        "Este último es el estado más frecuente y el que le hace parecido con el tántalo.",
+        "Reacciona con facilidad en presencia de oxígeno"
+    ],
+    "aplicaciones": [
+        "Actualmente no existen usos para el protactinio fuera de la investigación científica básica."
+    ],
+    "descubrimiento": "El protactinio fue descubierto en 1917 por Otto Hahn y Lise Meitner en Alemania e Inglaterra. Inicialmente se denominó protoactinio (progenitor del actinio), ya que al descomponerse radiactivamente el isótopo 231Pa se obtenía el actinio. Lo aislaron descomponiendo el mineral pechblenda con ácido caliente.",
+    "fotoEF": "rutaFotosEF/91.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/91.jpg"
+}

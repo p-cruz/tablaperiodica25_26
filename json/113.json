@@ -1,0 +1,26 @@
+{
+    "simbolo": "Nh",
+    "nombre": "Nihonio",
+    "numeroAtomico": 113,
+    "numeroMasico": 286.182,
+    "grupo": 13,
+    "periodo": 7,
+    "tipoElemento":"",
+    "propiedadesFisicas": [
+        "Punto fusión: 700k (427°C)",
+        "Punto de ebullición: 1400k (1127°C)",
+        "Densidad: 16 g/cm³ (predicha).",
+        "Radio atómico: 170 pm (calculado)"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>14</sup>6d<sup>10</sup>7p<sup>1</sup>",
+        "Ion más probable: Se predice que sus estados de oxidación más probables sean +1 y +3, similar al talio.",
+        "Se ha calculado que tiene propiedades similares a sus homólogos boro, aluminio, galio, indio y talio."
+    ],
+    "aplicaciones": [
+        "Por su vida media tan reducida de tan solo milisegundos a minutos y su inestabilidad son nulas las aplicaciones industriales o comerciales de este elemento súper pesado, por lo que su aplicación se relega solo a la investigación científica."
+    ],
+    "descubrimiento":"El elemento 113 no existe en la naturaleza en forma natural y ha sido generado artificialmente en el laboratorio. Fue descubierto por el Instituto Riken japonés, y el nombre 'nihonio' hace referencia al origen nipón de sus investigadores, ya que significa “la tierra del sol naciente”. Es un elemento extremadamente radioactivo.",
+    "fotoEF": "rutaFotosEF/fichero.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/113.jpg"
+ }

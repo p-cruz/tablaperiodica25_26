@@ -1,0 +1,28 @@
+{
+  "simbolo": "C",
+  "nombre": "CARBONO",
+  "numeroAtomico": 6,
+  "numeroMasico": 12,
+  "grupo": 14,
+  "periodo": 2,
+  "propiedadesFisicas": [
+    "Es un sólido insoluble. Su punto de fusión es 3727oC y su punto de ebullición es 4830oC.",
+    "El carbono tiene 4 formas alotropicas: grafito, diamante, fulereno y grafeno.",
+    "La densidad es 2.26 g/mL.",
+    "A excepción del diamante, son de color negro, frágiles y untuosos al tacto."
+  ],
+  "propiedadesQuimicas": [
+    "Configuración electrónica: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>2</sup>",
+    "Ión más probable: El carbono puede formar iones con carga +4 o -4, aunque forma predominantemente enlaces covalentes.",
+    "Carácter metálico: Es un no metal.",
+    "El carbono elemental es una sustancia inerte, insoluble en agua, ácidos y bases diluidos, así como disolventes orgánicos.",
+    "A temperaturas elevadas se combina con el oxígeno para formar monóxido o dióxido de carbono.",
+    "Un gran número de metales se combinan con el elemento a temperaturas elevadas para formar carburos."
+  ],
+  "aplicaciones": [
+    "El uso más extendido del carbono es como componente en los hidrocarburos, sobre todo los combustibles fósiles como el petróleo para producir gasolinas, aceites, o como materia prima para producir plásticos, o el gas natural."
+  ],
+  "descubrimiento": "El carbono fue descubierto en la prehistoria y ya era conocido en la antigüedad, a pesar que en está la manufacturaban mediante la combustión incompleta de materiales orgánicos. Los últimos alótropos conocidos, los fullerenos (C60), fueron descubiertos como subproducto en experimentos realizados con gases moleculares en la década de los 80. Newton, en 1704, intuyó que el diamante podía ser combustible, pero no se consiguió quemar un diamante hasta 1772 en que Lavoisier demostró que en la reacción de combustión se producía CO2. Tennant demostró que el diamante era carbono puro en 1797. El isótopo más común del carbono es el 12C; en 1961 este isótopo se eligió para reemplazar al isótopo oxígeno-16 como base de los pesos atómicos, y se le asignó un peso atómico de 12.  Los primeros compuestos de carbono se identificaron en la materia viva a principios del siglo xix, y por ello el estudio de los compuestos de carbono se llamó química orgánica. ",
+  "fotoEF": "rutaFotosEF/6.jpg",
+  "fotoDescubridor": "rutaFotosDescubridores/6.jpg"
+}

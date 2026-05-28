@@ -1,0 +1,26 @@
+{
+    "simbolo": "No",
+    "nombre": "Nobelio",
+    "numeroAtomico": 102,
+    "numeroMasico": 259,
+    "grupo": 3,
+    "periodo": 7,
+    "tipoElemento":"Es un metal radiactivo sintético.",
+    "propiedadesFisicas": [
+        "el Nobelio tiene un punto de fusión de 827ºC y de ebullición es desconocido.",
+        "El nobelio tiene una densidad de 9,9g/cm3.",
+        "Radio atómico: 187 pm (calculado)",
+        "El tiempo de vida media del isótopo Nobelio-259 es de 55 segundos.",
+        "Su decaimiento se realiza por emisión de partículas alfa, es decir, un ion de helio doblemente cargado."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Rn] 5f14 7s2.",
+        "Ion más probable: El estado de oxidación +2 (formando el catión No²⁺) es el más estable en solución acuosa, aunque el estado +3 (No³⁺) también existe."
+    ],
+    "aplicaciones":[
+        "No tiene aplicaciones industriales (se desconoce en qué procesos podría incursionar o mejorar) y sólo se conocen tres isótopos de él, siendo éstos el 253-No, 255-No y 259-No. Se puede desintegrar con la inclusión de partículas alfa (iones de Helio con doble carga)."
+    ],
+    "descubrimiento": "Año de descubrimiento: 1958. Origen del nombre: En honor a Alfred Nobel, químico sueco que descubrió la dinamita y fundador de los premios Nobel. Obtención: Un equipo de científicos que trabajaba en Estocolmo anunció, en 1957, el descubrimiento de un isótopo del elemento de número atómico 102.",
+    "fotoEF": "rutaFotosEF/fichero.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/102.jpg"
+ }

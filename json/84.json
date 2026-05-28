@@ -1,0 +1,34 @@
+{
+    "simbolo":"Po",
+    "nombre":"POLONIO",
+    "numeroAtomico":84,
+    "numeroMasico":210,
+    "grupo": 16,
+    "periodo": 6,
+    "tipoElemento": "metaloide",
+    "propiedadesFisicas":[
+        "Estado fisico: Solido a temperatura ambiente.",
+        "Aspecto: Metal de color plateado. Debido a su intensa radiactividad, puede emitir un resplandor azul tenue por la excitacion del aire que lo rodea.",
+        "Calor generado: Debido a la desintegracion alfa, un solo gramo de polonio-210 puede alcanzar temperaturas muy elevadas funcionando como una fuente de calor autonoma.",
+        "Radio atomico: 190 pm",
+        "Es un solido de color gris plateado, inodoro con leve sabor metalico.",
+        "Su punto de fusion es: 254 C",
+        "Su punto de ebullicion es: 962 C",
+        "Su densidad es: 9.196 g/cm3"
+    ],
+    "propiedadesQuimicas":[
+        "Radiactividad extrema: El isotopo mas comun, el 210Po, emite particulas alfa de alta energia.",
+        "Estados de oxidacion: Sus estados mas comunes son -2, +2, +4 y +6. El estado +4 es el mas estable.",
+        "Volatilidad: Es un elemento volatil que puede evaporarse con relativa facilidad, lo que lo hace peligroso si se inhala.",
+        "Reactividad: Reacciona con el aire para formar oxidos y con halogenos para formar haluros como el tetracloruro de polonio.",
+        "Configuracion electronica: [Xe] 4f14 5d10 6s2 6p4.",
+        "Carácter metalico: Es un metaloide, compartiendo propiedades de metales y no metales.",
+        "Su solubilidad es baja, se disuelve en algunos acidos y es poco soluble en medios alcalinos."
+    ],
+    "aplicaciones":[
+        "Se emplea en dispositivos diseñados para eliminar cargas estaticas de articulos textiles, en cepillos que limpian el polvo en peliculas fotograficas y en satelites espaciales donde puede generar calor y emitir energia."
+    ],
+    "descubrimiento":"Fue descubierto por Marie Curie y Pierre Curie en 1898 mientras estudiaban la radiactividad de minerales de uranio.",
+    "fotoEF": "rutaFotosEF/84.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/84.jpg"
+}

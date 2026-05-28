@@ -1,0 +1,29 @@
+{
+	"simbolo": "Ca",
+	"nombre": "CALCIO",
+	"numeroAtomico": 20,
+	"numeroMasico": 40,
+	"grupo": 2,
+	"periodo": 4,
+	"tipoElemento": "metal alcalinotérreo",
+	"propiedadesFisicas": ["Es un metal de color blanco plateado, que puede cambiar a amarillo al estar expuesto al aire. Presenta un sabor amargo un tanto desagradable y un curioso olor parecido al ajo",
+		"Su punto de fusión es: 838ºC.",
+		"Su punto de ebullición es: 1440ºC.",
+		"Su densidad es: 1,55g/ml.",
+		"Su tiempo de vida es: estable."
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica: [Ar] 4s<sup>2</sup>",
+		"Ión más probable: El más habitual es el de carga +2.",
+		"Carácter metálico: Es un metal alcalinotérreo, reactivo.",
+		"Se combina fácilmente con el oxígeno.",
+		"Su solubilidad es alta en presencia de agua que contenga dióxido de carbono.",
+		"Su reactividad es baja, sin embargo, en su estado puro reacciona de forma explosiva con el agua para formar hidróxido de calcio."
+	],
+	"aplicaciones":[
+		"El calcio se puede utilizar como reductor a la hora de extraer un metal, como producción de metales ya que es un agente de la aleación, como carbonato de calcio para crear cemento, para crear dentífricos para fortalecer la dentadura, como carburo de calcio para crear plásticos, como arseniato de calcio para la fabricación de insecticidas, como fosfato de calcio como fertilizante y alimentación animal, para la fabricación del yeso y de las tizas de pizarra, alimentos ricos en calcio y ceras de colores ."
+	],
+	"descubrimiento": "El descubridor fue Sir Humprey Davy, un químico británico que descubrió este elemento en el año 1808. Fue descubierto mediante electrólisis de una amalgama de mercurio y cal .",
+	"fotoEF": "rutaFotosEF/20.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/20.jpg"
+}

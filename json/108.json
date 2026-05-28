@@ -1,0 +1,29 @@
+{
+	"simbolo": "Hs",
+	"nombre": "Hasio",
+	"numeroAtomico": 108,
+	"numeroMasico": 269.1341,
+	"grupo": 8,
+	"periodo": 7,
+	"tipoElemento": "Metal de transición",
+	"propiedadesFisicas": [
+		"Punto de fusión y ebullición desconocidos",
+		"Densidad aproximada: 41 kg/litro",
+		"Vida media de 2 ms",
+		"Radio atómico: 126 pm",
+		"Alta conductividad",
+		"Altamente radiactivo"
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica completa",
+		"Estado de oxidación +8",
+		"Similar al osmio",
+		"No se encuentra en la naturaleza"
+	],
+	"aplicaciones": [
+		"Uso exclusivo en investigación científica"
+	],
+	"descubrimiento": "Descubierto en 1984 en Darmstadt, Alemania",
+	"fotoEF": "rutaFotosEF/108.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/108.jpg"
+}

@@ -1,0 +1,30 @@
+{
+    "simbolo": "Es",
+    "nombre": "Einstenio",
+    "numeroAtomico": 99,
+    "numeroMasico": 252.083,
+    "grupo": 3,
+    "periodo": 7,
+    "tipoElemento": "Elemento de transición interna",
+    "propiedadesFisicas": [
+        "Es un metal radiactivo sintético de aspecto plateado.",
+        "Punto fusión: 860 °C",
+        "Punto de ebullición: 996°C",
+        "Densidad: 8,84 g/cm³.",
+        "Radio atómico: 186 pm (calculado)",
+        "El metal es químicamente reactivo y muy volátil."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>11</sup>",
+        "Ion más probable: El estado de oxidación más estable es +3 (formando el catión Es³⁺).",
+        "Todos los isópos del einstenio son radiactivos, con vida media que abarca de unos pocos segundos hasta cerca de un año.",
+        "El einstenio es el actínido más pesado de aquellos en que puede determinarse esta propiedad.",
+        "Se conoce como una estructura cristalina."
+    ],
+    "aplicaciones":[
+        "Se emplea para producir el elemento mendelevio. Actualmente, no hay aplicaciones prácticas que no sean las de la investigación científica básica, debido a las pequeñas cantidades de Einstenio que se producen y la corta vida media de su isótopo."
+    ],
+    "descubrimiento": "Fue descubierto por primera vez en 1952 cuando un dispositivo termonuclear denominado Ivy Mike fue detonado en la isla de Elugelab en el Océano Pacífico (ahora parte de las Islas Marshall).",
+    "fotoEF": "rutaFotosEF/fichero.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/99.jpg"
+}

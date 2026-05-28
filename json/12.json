@@ -1,0 +1,26 @@
+{
+    "simbolo": "Mg",
+    "nombre": "MAGNESIO",
+    "numeroAtomico": 12,
+    "numeroMasico": 24,
+    "grupo": 2,
+    "periodo": 3,
+    "tipoElemento": "Elemento representativo",
+    "propiedadesFisicas": [
+        "El magnesio es un metal liviano, medianamente fuerte y  de color blanco plateado. El magnesio se encuentra en estado sólido.",
+        "Su punto de fusión es 650°C y su punto de ebullición 1107°C. Su densidad es 1,738g/cm³.",
+        "El magnesio no se encuentra en la naturaleza en estado libre (como metal), sino que forma parte de numerosos compuestos, en su mayoría óxidos y sales; es insoluble"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Ne] 3s<sup>2</sup>",
+        "Ión más probable: El más habitual es el de carga +2.",
+        "Carácter metálico: Es un metal alcalinotérreo, altamente reactivo.",
+        "Es soluble en ciertas formas. La solubilidad del hidróxido de magnesio en agua es de 12 mg/L pero existen otros derivados del magnesio que son más solubles en agua. El sulfato de magnesio añade al agua un sabor agrio. Es sumamente inflamable, entra en combustión fácilmente cuando se encuentra en forma de virutas o polvo, mientras que en forma de masa sólida es menos inflamable"
+    ],
+    "aplicaciones": [
+        "Las aplicaciones del magnesio son diversas, tanto en el ámbito industrial como en el médico y nutricional. Algunos de sus usos son: Se emplea en aleaciones con aluminio para fabricar latas y envases, sus óxidos se utilizan en la producción de hierro y acero, cristal y cemento, se usa como agente reductor en la obtención de uranio. En su forma de hidróxidos, cloruros o sulfatos, se usa en la medicina como purgante, desinfectante o psicofármaco. Es célebre su uso en los orígenes de la fotografía (flash) y como parte de juegos pirotécnicos y bombas incendiarias."
+    ],
+    "descubrimiento": "El inglés Joseph Black reconoció el magnesio como un elemento químico en 1755. El metal en sí fue producido por primera vez por Sir Humphrey Davy en el año 1808 en Inglaterra. Para ello utilizó la electrólisis de una mezcla de magnesia y de óxido de mercurio.",
+    "fotoEF": "rutaFotosEF/12.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/12.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "simbolo": "Ac",
+    "nombre": "Actinio",
+    "numeroAtomico": 89,
+    "numeroMasico": 227,
+    "grupo": 3,
+    "periodo": 7,
+    "tipoElemento": "actinido",
+    "propiedadesFisicas": [
+        "Tiene un tono plateado.",
+        "Punto de fusion: 1050 C.",
+        "Punto de ebullicion: 3198 C.",
+        "Tiene una vida media de 21.772 años.",
+        "Brilla en la oscuridad con una luz azul.",
+        "Posee alta conductividad termica y electrica.",
+        "Su densidad es de 10.07 g/cm3.",
+        "Su estructura cristalina es cubica centrada en las caras.",
+        "Su electronegatividad es de 1.1 en la escala de Pauling."
+    ],
+    "propiedadesQuimicas": [
+        "Configuracion electronica: [Rn] 6d1 7s2.",
+        "Iones mas probables: cationes de carga +3 y +4.",
+        "Caracter metalico: Pertenece a los actinidos, metales de tierras raras.",
+        "Es radiactivo, tiene numerosos isotopos y ninguno es estable."
+    ],
+    "aplicaciones": [
+        "No hay aplicaciones comerciales debido a su escasez y a su inestabilidad.",
+        "Solo ha sido usado en tareas de investigacion.",
+        "Su estado de oxidacion predominante es +3 en sus compuestos.",
+        "Es un metal altamente reactivo que al exponerse al aire crea una capa de oxido que lo protege de mayor oxidacion."
+    ],
+    "descubrimiento": "Fue descubierto por Andre Louis Debierne en 1899.",
+    "fotoEF": "rutaFotosEF/89.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/89.jpg"
+}

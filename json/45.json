@@ -1,0 +1,33 @@
+{
+    "simbolo": "Rh",
+    "nombre": "Rodio",
+    "numeroAtomico": 45,
+    "numeroMasico": 102.9055,
+    "grupo": 9,
+    "periodo": 5,
+    "tipoElemento":"Elemento de transición",
+    "propiedadesFisicas": [
+        "Blanco plateado y muy valioso, conocido por su excepcional resistencia a la corrosión.",
+        "Posee un brillo metálico muy característico.",
+        "Es muy poco abundante en la Tierra, lo que contribuye a su alto precio, que es más caro que el oro.",
+        "Punto de ebullición: 3697° C.",
+        "Punto de fusión: 2212° C.",
+        "Densidad: 12.45 g/ml"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Kr] 4d<sup>8</sup> 5s<sup>1</sup>",
+        "Ión más probable: Los más comunes son +3 y +4.",
+        "Carácter metálico: Es un metal de transición, del grupo del platino.",
+        "Electronegatividad: 2.28.",
+        "Potencial estándar: + 0.75 V (Rh3+ | Rh)",
+        "Radio iónico (pm): 134.",
+        "Radio atómico (pm): 173."
+    ],
+    "aplicaciones": [
+        "Se utiliza en joyería, simulando el brillo del platino.",
+        "También se usa como catalizador en los automóviles para el reciclaje de los gases de escape."
+    ],
+    "descubrimiento": "Wollaston descubrió el rodio en 1803, en un mineral de platino bruto de Sudamérica, poco después de haber encontrado otro elemento, el paladio.",
+    "fotoEF": "rutaFotosEF/45.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/45.jpg"
+}

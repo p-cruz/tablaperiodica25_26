@@ -1,0 +1,40 @@
+{
+	"simbolo": "K",
+	"nombre": "Potasio",
+	"numeroAtomico": 19,
+	"numeroMasico": 39,
+	"grupo": 1,
+	"periodo": 4,
+	"tipoElemento": "metal alcalino",
+	"propiedadesFisicas": [
+		"Elemento metálico con mayor conductividad eléctrica y térmica.",
+		"Color rojizo o plateado.",
+		"Maleable y dúctil.",
+		"Metal blando",
+		"Tiene un punto de fusión bajo: 63 grados"
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica: [Ar] 4s<sup>1</sup>",
+		"Ión más probable: El más habitual es el de carga +1.",
+		"Carácter metálico: Es un metal alcalino, altamente reactivo.",
+		"Es más reactivo aún que el sodio y reacciona vigorosamente con el oxígeno del aire para formar el monóxido, K2O, y el peróxido, K2O2.",
+		"En presencia de un exceso de oxígeno, produce fácilmente el superóxido, KO2.",
+		"El potasio no reacciona con el nitrógeno para formar nitruro, ni siquiera a temperaturas elevadas.",
+		"Con hidrógeno reacciona lentamente a 200ºC (390ºF) y con rapidez a 350-400ºC (660-752ºF). Produce el hidruro menos estable de todos los metales alcalinos.",
+		"La reacción entre el potasio y agua o hielo es violenta, aun a temperaturas tan bajas como –100ºC (-148ºF). El hidrógeno que se desprende se inflama normalmente a la temperatura ambiente.",
+		"La reacción con ácidos acuosos es aún más violenta y casi explosiva.",
+		"Se oxida rápidamente"
+	],
+	"aplicaciones": [
+		"El potasio metal se usa en células fotoeléctricas.",
+		"El cloruro y el nitrato se emplean como fertilizantes.",
+		"El peróxido de potasio se usa en aparatos de respiración autónomos de bomberos y mineros.",
+		"El nitrato se usa en la fabricación de pólvora y el cromato y dicromato en pirotecnia.",
+		"El carbonato potásico se emplea en la fabricación de cristales.",
+		"La aleación NaK, una aleación de sodio y potasio, es un material empleado para la transferencia de calor.",
+		"El cloruro de potasio se utiliza para provocar un paro cardíaco en las ejecuciones con inyección letal."
+	],
+	"descubrimiento": "El propio Davy hacía el siguiente relato de su descubrimiento ante la Royal Society of London el 19 de noviembre de 1807: «Coloqué un pequeño fragmento de potasa sobre un disco aislado de platino que comunicaba con el lado negativo de una batería eléctrica de 250 placas de cobre y zinc en plena actividad. Un hilo de platino que comunicaba con el lado positivo fue puesto en contacto con la cara superior de la potasa. Todo el aparato funcionaba al aire libre. En estas circunstancias se manifestó una actividad muy viva; la potasa empezó a fundirse en sus dos puntos de electrización. Hubo en la cara superior (positiva) una viva efervescencia, determinada por el desprendimiento de un fluido elástico; en la cara inferior (negativa) no se desprendía ningún fluido elástico, pero pequeños glóbulos de vivo brillo metálico completamente semejantes a los glóbulos de mercurio. Algunos de estos glóbulos, a medida que se formaban, ardían con explosión y llama brillante otros perdían poco a poco su brillo y se cubrían finalmente de una costra blanca. Estos glóbulos formaban la sustancia que yo buscaba; era un principio combustible particular, era la base de la potasa: el potasio. La importancia del descubrimiento radica en que confirmó la hipótesis de Antoine Lavoisier de que si la sosa y la potasa reaccionaban con los ácidos de igual modo que los óxidos de plomo y plata era porque estaban formados de la combinación de un metal con el oxígeno, extremo que se confirmó al aislar el potasio y tan sólo una semana después el sodio por electrólisis de la sosa. Además, la obtención del potasio permitió el descubrimiento de otros elementos, ya que dada su gran reactividad es capaz de descomponer óxidos para combinarse y quedarse con el oxígeno; de este modo pudieron aislarse el silicio, el boro y el aluminio.",
+	"fotoEF": "rutaFotosEF/19.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/19.jpg"
+}

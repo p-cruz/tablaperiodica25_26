@@ -1,0 +1,28 @@
+﻿{
+    "simbolo": "Tl",
+    "nombre": "Talio",
+    "numeroAtomico": 81,
+    "numeroMasico": 204.3833,
+    "grupo": 13,
+    "periodo": 6,
+    "tipoElemento": "Elemento representativo",
+    "propiedadesFisicas": [
+        "punto de ebullición, 1474 ºC",
+        "densidad 11,85 g/ml", 
+        "punto de fusion 303,8 ºC ",
+        "inodoro",
+        "insípido"
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>1</sup>",
+        "Ión más probable: Los más comunes son +1 (el más estable) y +3.",
+        "Carácter metálico: Es un metal post-transición, muy tóxico."
+    ],
+    "aplicaciones": [
+        "Fabricacion de dispositivos electronicos",
+        "Interruptores"
+    ],
+    "descubrimiento":"Se descubrió en 1861 por William Crookes cuando detectó una línea verde brillante en el espectro de un mineral de selenioque asignó a un nuevo elemento" ,
+    "fotoEF": "rutaFotosEF/81.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/81.jpg"
+}

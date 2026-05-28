@@ -1,0 +1,32 @@
+{
+    "simbolo": "Ba",
+    "nombre": "BARIO",
+    "numeroAtomico": 56,
+    "numeroMasico": 137,
+    "grupo": 2,
+    "periodo": 6,
+    "tipoElemento":"Elemento representativo",
+    "propiedadesFisicas": [
+        "Es un metal alcalinotérreo blanco plateado, blando y maleable, con alta reactividad y densidad, físicamente se caracteriza por un bajo punto de fusión y ebullición",
+	    "Su punto de fusión es 727ºC / 1000 K y su punto de ebullición es 1640ºC ",
+        "Su densidad es 3510 kg/m3 ",
+        "Su tiempo de vida media: El bario es estable.",
+        "El Bario tiene varios isotopos, el cual son el Bario-130, Bario-131, Bario-132, Bario-133, Bario-134, Bario-135, Bario-136, Bario-137, Bario-138 y Bario-139, Bario-140, Bario-141, Bario-142",
+        "Su configuración electrónica es: 1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 5s2 5p6 6s2. Esto significa que pertenece al periodo 6 y al grupo alcalinotérreos."
+    ],
+    "propiedadesQuimicas": [
+        "Configuración electrónica: [Xe] 6s<sup>2</sup>",
+        "Ión más probable: El más habitual es el de carga +2.",
+        "Carácter metálico: Es un metal alcalinotérreo, muy reactivo.",
+        "El Bario tiene un pH de 50g/L.",
+        "Este metal se oxida con mucha facilidad cuando se expone al aire.",
+        "El bario tiene un estado de oxidación +2 y una valencia de 2.",
+        "Se oxida rápidamente en aire húmedo y reacciona vigorosamente con agua para formar hidróxido de bario e hidrógeno"
+    ],
+    "aplicaciones": [
+        "El bario metálico tiene pocas aplicaciones prácticas, aunque a veces se usa para recubrir conductores eléctricos en aparatos electrónicos y en sistemas de encendido de automóviles usado principalmente por las industrias de gas y petróleo para fabricar lodos de perforación."
+    ],
+    "descubrimiento": "Fue descubierto en 1.808 por el científico inglés Sir Humphrey Davy que le dió el nombre de “Bario” Previamente, en 1774, Carl Wilhelm Scheele señaló su existencia al establecer las diferencias entre la cal y la barita, a la que llamó tierra pesada.",
+    "fotoEF": "rutaFotosEF/56.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/56.jpg"
+}

@@ -1,0 +1,37 @@
+{
+	"simbolo": "Sr",
+	"nombre": "ESTRONCIO",
+	"numeroAtomico": 38,
+	"numeroMasico": 87,
+	"grupo": 2,
+	"periodo": 5,
+	"tipoElemento": "Elemento representativo",
+	"propiedadesFisicas": [
+		"Metal plateado, sólido, blando, buen conductor, con fusión 777 °C y ebullición 1382 °C",
+		"Radio atómico: 215 pm",
+		"El estado del estroncio en su forma natural es sólido (paramagnético).",
+		"El estroncio es un elemento químico de aspecto metálico plateado blanquecino y pertenece al grupo de los metales alcalinotérreos.",
+		"Su punto de fusión es de 777oC.",
+		"Su punto de ebullición es de 1382oC.",
+		"Densidad: ≈ 2,64 g/cm³",
+		"Es bastante reactivo, se oxida fácilmente en el aire y forma compuestos como óxidos, cloruros y carbonato",
+		"Muy reactivo, especialmente con agua y oxígeno, reacciona con el agua formando hidróxido de estroncio y hidrógeno",
+		"Se oxida en el aire, formando óxido de estroncio"
+	],
+	"propiedadesQuimicas": [
+		"Configuración electrónica: [Kr] 5s<sup>2</sup>",
+		"Ión más probable: El más habitual es el de carga +2. El ión más probable es Sr²⁺. Este es el estado de oxidación más estable en sus compuestos químicos, aunque raramente puede formar especies intermedias en compuestos muy específicos.",
+		"Carácter metálico: Es un metal alcalinotérreo, muy reactivo. Como tal, posee propiedades metálicas típicas: buen conductor de electricidad y calor, maleable y dúctil. Su superficie se oxida fácilmente al contacto con el aire, formando una capa de óxido que lo protege parcialmente",
+		"El estroncio es un metal paramagnético.",
+		"Su densidad es 2,6 g/mL.",
+		"Su tiempo de vida media son 29 años.",
+		"Es poco susceptible a la influencia de los campos magnéticos.",
+		"A temperatura ambiente, el estroncio cristaliza en un sistema cúbico centrado en el cuerpo (CCC), típico de los metales alcalinotérreos."
+	],
+	"aplicaciones": [
+		"Los compuestos de estroncio, como por ejemplo el carbonato de estroncio, se usan para fabricar cerámicas y productos de vidrio, fuegos artificiales, pigmentos para pinturas, luces fluorescentes, medicamentos y otros productos."
+	],
+	"descubrimiento": "Fue hallado en el minera estroncianita por Adair Crawford en 1790 en las minas escocesas de plomo de Strontiande las cuales toma su nombre.",
+	"fotoEF": "rutaFotosEF/38.jpg",
+	"fotoDescubridor": "rutaFotosDescubridores/38.jpg"
+}

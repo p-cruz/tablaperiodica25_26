@@ -1,0 +1,31 @@
+{
+    "simbolo": "Am",
+    "nombre": "Americio",
+    "numeroAtomico": 95,
+    "numeroMasico": 243.0614,
+    "grupo": "Tierras raras (Actínidos)",
+    "periodo": 7,
+    "tipoElemento":"Elemento de transición interna",
+    "propiedadesFisicas": [
+        "Metal plateado",
+        "Punto de fusion: 1176 °C",
+        "Punto de ebullicion: 2607 °C.",
+        "Densidad: 11,7 (g/ml)",
+        "Radio atómico: 173 pm (calculado)"
+    ],
+    "propiedadesQuimicas": [
+        "Presenta varios estados de oxidación (+3 y +4).",
+        "Forma óxidos y sales al reaccionar con oxígeno y ácidos.",
+        "Configuración electrónica: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>10</sup>4p<sup>6</sup>5s<sup>2</sup>4d<sup>10</sup>5p<sup>6</sup>6s<sup>2</sup>4f<sup>14</sup>5d<sup>10</sup>6p<sup>6</sup>7s<sup>2</sup>5f<sup>7</sup>",
+        "Ion más probable: El estado de oxidación más estable es +3 (formando el catión Am³⁺), aunque también presenta los estados +2, +4, +5 y +6.",
+        "Hay dos isótopos importantes del americio, el americio 241 (241Am) y el americio 243",
+	"Es un elemento de radiactividad de larga vida, lo cual quiere decir que emite radiaciones ionizantes druante periodos de tiempo extremadamente largos"
+    ],
+    "aplicaciones": [
+        "Detectores de humo",
+        "Aplicaciones médicas"
+    ],
+    "descubrimiento": "El americio es un elemento químico artificial situado dentro del grupo de los actínidos en la tabla periódica de los elementos fue producido por primera vez en 1944 por el grupo de Glenn T. Seaborg de Berkeley,California en el Laboratorio Metalúrgico de la Universidad de Chicago.",
+    "fotoEF": "rutaFotosEF/95.jpg",
+    "fotoDescubridor": "rutaFotosDescubridores/95.jpg"
+ }
